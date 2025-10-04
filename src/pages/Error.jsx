@@ -1,7 +1,7 @@
-export default function Error() {
+export default function Error({ error }) {
   return (
     <>
-      Error page
+      {error.status} {error.message}
     </>
   )
 }

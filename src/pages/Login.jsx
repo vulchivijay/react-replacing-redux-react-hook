@@ -5,7 +5,3 @@ export default function Login() {
     </>
   )
 }
-
-export async function loader() {
-  return null;
-}

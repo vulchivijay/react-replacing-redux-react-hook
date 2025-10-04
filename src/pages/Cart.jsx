@@ -5,7 +5,3 @@ export default function Cart() {
     </>
   )
 }
-
-export async function loader() {
-  return null;
-}
