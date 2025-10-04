@@ -6,8 +6,10 @@ import CartLayout from "../layouts/CartLayout";
 import LoginLayout from "../layouts/LoginLayout";
 
 import Home from "../pages/Home";
-import Products, { loader as loadProducts } from "../pages/Products";
-import Product, { loader as loadProduct } from "../pages/Product";
+import Products from "../pages/Products";
+import { loader as loadProducts } from "../loaders/ProductsLoader";
+import Product from "../pages/Product";
+import { loader as loadProduct } from "../loaders/ProductLoader";
 import Cart from "../pages/Cart";
 import Login from "../pages/Login";
 
