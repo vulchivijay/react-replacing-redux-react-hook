@@ -1,11 +1,9 @@
 import { createBrowserRouter } from "react-router-dom";
 
-import RootLayout from "../layouts/RootLayout";
 import ProductsLayout from "../layouts/ProductsLayout";
 import CartLayout from "../layouts/CartLayout";
 import LoginLayout from "../layouts/LoginLayout";
 
-import Home from "../pages/Home";
 import Products from "../pages/Products";
 import { loader as loadProducts } from "../loaders/ProductsLoader";
 import Product from "../pages/Product";
