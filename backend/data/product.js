@@ -12,7 +12,7 @@ async function writeData(data) {
 async function getAll() {
   const storedData = await readData();
   if (!storedData.products) {
-    throw new NotFoundError('Could not find any events.');
+    throw new NotFoundError('Could not find any products.');
   }
   return storedData.products;
 }
@@ -20,11 +20,11 @@ async function getAll() {
 async function get(id) {
   const storedData = await readData();
   if (!storedData.products || storedData.products.length === 0) {
-    throw new NotFoundError('Could not find any events.');
+    throw new NotFoundError('Could not find any products.');
   }
-  const product = storedData.products.find((ev) => ev.id === id);
+  const product = storedData.products.find(product => product.id === parseInt(id));
   if (!product) {
-    throw new NotFoundError('Could not find event for id ' + id);
+    throw new NotFoundError('Could not find product for id ' + parseInt(id));
   }
   return product;
 }
@@ -38,12 +38,12 @@ async function add(data) {
 async function replace(id, data) {
   const storedData = await readData();
   if (!storedData.products || storedData.products.length === 0) {
-    throw new NotFoundError('Could not find any events.');
+    throw new NotFoundError('Could not find any products.');
   }
 
   const index = storedData.products.findIndex((ev) => ev.id === id);
   if (index < 0) {
-    throw new NotFoundError('Could not find event for id ' + id);
+    throw new NotFoundError('Could not find product for id ' + id);
   }
 
   storedData.products[index] = { ...data, id };

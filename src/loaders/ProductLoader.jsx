@@ -1,8 +1,8 @@
 export const loader = async ({request, params}) => {
-  const id = params.eventId;
-  const response = fetch("http://localhost:8080/products/" + id);
+  const id = params.productId;
+  const response = fetch("http://localhost:8080/" + id);
   if (!response) {
-    throw new Error("Fetching product data failed!");
+    throw new Response("Fetching product data failed!");
   }
   else {
     const product = await response;

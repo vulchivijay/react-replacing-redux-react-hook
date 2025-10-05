@@ -21,16 +21,6 @@ const error = {
 const AppRouter = createBrowserRouter([
   {
     path: '/',
-    element: <RootLayout />,
-    children: [
-      {
-        index: true,
-        element: <Home />
-      }
-    ],
-  },
-  {
-    path: 'products',
     element: <ProductsLayout />,
     errorElement: <Error error={error} />,
     children: [

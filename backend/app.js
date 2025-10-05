@@ -1,7 +1,7 @@
 const bodyParser = require('body-parser');
 const express = require('express');
 
-const eventRoutes = require('./routes/products');
+const productRoutes = require('./routes/products');
 
 const app = express();
 // serving images
@@ -15,7 +15,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/products', eventRoutes);
+app.use('/', productRoutes);
 
 app.use((error, req, res, next) => {
   const status = error.status || 500;
