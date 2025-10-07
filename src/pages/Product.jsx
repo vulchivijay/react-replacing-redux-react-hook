@@ -1,4 +1,5 @@
 import { useLoaderData } from "react-router-dom";
+import Button from "../components/Button";
 
 export default function Product() {
   const product = useLoaderData();
@@ -13,18 +14,53 @@ export default function Product() {
           </figure>
         </div>
         <div className="flex-1 p-4">
-          <h1 className="text-2xl font-semibold">{product.title}</h1>
-          <p className="text-md py-2">{product.description}</p>
-          <p className="text-xl font-semibold">Rating: {product.rating}/5</p>
-          <p className="text-2xl font-semibold">Price: ${product.price}, <span className="text-sm font-medium text-green-700">Discount: {product.discountPercentage}%</span></p>
-          <p className="text-md">Availability: <b>"{product.availabilityStatus}"</b></p>
-          <p className="text-sm">Return Policy: <span className="font-semibold">{product.returnPolicy}</span></p>
-          <p className="text-sm">Warranty: <span className="font-semibold">{product.warrantyInformation}</span></p>
-          <div className="flex w-full my-4 gap-4">
-            <button className="px-4 py-2 bg-orange-400 text-white shadow-md">Add to cart</button>
-            <button className="px-4 py-2 bg-orange-600 text-white shadow-md">Buy now</button>
+          <h1 className="text-2xl font-semibold py-2">{product.title}</h1>
+          <p className="text-md pt-2 pb-4">{product.description}</p>
+          <p className="text-2xl font-semibold pb-4">Price: ${product.price}, <span className="text-sm font-medium text-green-700">Discount: {product.discountPercentage}%</span></p>
+          <p className="text-md"><span className="font-semibold">Availability: </span> "{product.availabilityStatus}"</p>
+          <p className="text-md"><span className="font-semibold">Shipping Duration: </span>{product.shippingInformation}</p>
+          <div className="flex ">
+            <div className="flex-1">
+              <p className="text-sm"><span className="font-semibold">Return Policy: </span>{product.returnPolicy}</p>
+              <p className="text-sm"><span className="font-semibold">Warranty: </span>{product.warrantyInformation}</p>
+              <p className="text-xl font-semibold">Rating: {product.rating}/5</p>
+              <div className="flex w-full my-4 gap-4">
+                <Button
+                  bgColor="bg-orange-400"
+                  txtColor="text-white"
+                  borRadius="rounded-sm"
+                  shadow="shadow-md">Add to Cart</Button>
+                <Button
+                  bgColor="bg-orange-600"
+                  txtColor="text-white"
+                  borRadius="rounded-sm"
+                  shadow="shadow-md">Buy now</Button>
+              </div>
+              <p><b>Branch: </b>{product.brand}</p>
+              <p><b>Category: </b>{product.category}</p>
+              <p><b>Tags: </b>{product.tags.map(tag => (tag + ", "))}</p>
+            </div>
+            <div className="flex-1">
+              <img src={product.meta.qrCode} alt={product.meta.barcode} />
+            </div>
           </div>
+          <h2 className="text-2xl font-semibold py-2 border-b-2 border-amber-500">Reviews:</h2>
+          {product.reviews.map(review => (
+            <div className="flex flex-col py-2 border-b-1 border-amber-300">
+              <div className="flex items-center justify-between">
+                <b className="text-xl font-semibold">{review.reviewerName}</b>
+                <span className="text-md font-semibold">Reating: {review.rating}</span>
+              </div>
+              <div className="flex items-start justify-between">
+                <span>{review.comment}</span>
+                <span className="text-xs">{review.date}</span>
+              </div>
+            </div>
+          ))}
         </div>
+      </div>
+      <div className="similar-products p-4">
+          
       </div>
     </div>
   )

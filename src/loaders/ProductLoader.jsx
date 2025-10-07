@@ -1,4 +1,4 @@
-export const loader = async ({request, params}) => {
+export const loader = async ({ request, params }) => {
   const id = params.productId;
   const response = fetch("http://localhost:8080/" + id);
   if (!response) {
@@ -6,7 +6,6 @@ export const loader = async ({request, params}) => {
   }
   else {
     const product = await response;
-    // console.log(product);
     return product;
   }
 }

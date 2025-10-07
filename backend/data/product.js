@@ -29,6 +29,18 @@ async function get(id) {
   return product;
 }
 
+async function getBrandItems(brand) {
+  const storedData = await readData();
+  if (!storedData.products || storedData.products.length === 0) {
+    throw new NotFoundError('Could not find any products.');
+  }
+  const products = storedData.products.filter(product => product.brand === brand);
+  if (!products) {
+    throw new NotFoundError('Could not find products simmilar to ' + brand);
+  }
+  return products;
+}
+
 async function add(data) {
   const storedData = await readData();
   storedData.products.unshift({ ...data, id: generateId() });
@@ -59,6 +71,7 @@ async function remove(id) {
 
 exports.getAll = getAll;
 exports.get = get;
+exports.getBrandItems = getBrandItems;
 exports.add = add;
 exports.replace = replace;
 exports.remove = remove;

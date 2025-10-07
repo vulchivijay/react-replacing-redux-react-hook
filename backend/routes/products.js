@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { getAll, get, add, replace, remove } = require('../data/product');
+const { getAll, get, getBrandItems, add, replace, remove } = require('../data/product');
 const {
   isValidText,
   isValidDate,
@@ -24,6 +24,17 @@ router.get('/:id', async (req, res, next) => {
     res.json(product);
   } catch (error) {
     next(error);
+  }
+});
+
+router.get('/?brand', async (req, res, next) => {
+  console.log(req.params);
+  try {
+    const products = await getBrandItems(req.params.brand)
+    res.json(products);
+  }
+  catch (error) {
+    next(error)
   }
 });
 
