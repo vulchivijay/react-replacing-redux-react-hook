@@ -26,19 +26,19 @@ async function get(id) {
   if (!product) {
     throw new NotFoundError('Could not find product for id ' + parseInt(id));
   }
-  return product;
-}
-
-async function getBrandItems(brand) {
-  const storedData = await readData();
-  if (!storedData.products || storedData.products.length === 0) {
-    throw new NotFoundError('Could not find any products.');
+  const similarProducts = storedData.products.filter(item => item.brand === product.brand);
+  if (!similarProducts) {
+    throw new NotFoundError('Could not find similar products ' + product.brand);
   }
-  const products = storedData.products.filter(product => product.brand === brand);
-  if (!products) {
-    throw new NotFoundError('Could not find products simmilar to ' + brand);
+  const similarCategories = storedData.products.filter(item => item.category === product.category);
+  if (!similarCategories) {
+    throw new NotFoundError('Could not find similar products ' + product.category);
   }
-  return products;
+  return {
+    product,
+    similarProducts,
+    similarCategories,
+  }
 }
 
 async function add(data) {
@@ -71,7 +71,6 @@ async function remove(id) {
 
 exports.getAll = getAll;
 exports.get = get;
-exports.getBrandItems = getBrandItems;
 exports.add = add;
 exports.replace = replace;
 exports.remove = remove;

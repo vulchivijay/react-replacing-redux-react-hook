@@ -1,9 +1,10 @@
-import { useLoaderData } from "react-router-dom";
+import { Link, useLoaderData } from "react-router-dom";
 import Button from "../components/Button";
 
 export default function Product() {
-  const product = useLoaderData();
-  console.log(product)
+  const { product, similarProducts, similarCategories } = useLoaderData();
+  console.log(similarProducts);
+
   return (
     <div className="max-w-6xl m-auto sm:px-4">
       <div className="flex items-start">
@@ -46,7 +47,7 @@ export default function Product() {
           </div>
           <h2 className="text-2xl font-semibold py-2 border-b-2 border-amber-500">Reviews:</h2>
           {product.reviews.map(review => (
-            <div className="flex flex-col py-2 border-b-1 border-amber-300">
+            <div key={review.reviewerName} className="flex flex-col py-2 border-b-1 border-amber-300">
               <div className="flex items-center justify-between">
                 <b className="text-xl font-semibold">{review.reviewerName}</b>
                 <span className="text-md font-semibold">Reating: {review.rating}</span>
@@ -59,8 +60,43 @@ export default function Product() {
           ))}
         </div>
       </div>
+      <div className="similar-category p-4">
+        <h2 className="text-xl font-semibold pb-2 border-b-1 border-amber-700">Similar Category Products:</h2>
+        <div className="flex flex-wrap gap-4 py-4">
+          {similarCategories && similarCategories.map(similarCategoryProduct => {
+            if (similarCategoryProduct.id !== product.id) {
+              return (
+                <div className="max-w-3xs">
+                  <Link to={`/${similarCategoryProduct.id}`}>
+                    <figure className="bg-white p-2">
+                      <img src={similarCategoryProduct.images[0]} alt={similarCategoryProduct.title} />
+                      <figcaption className="text-center truncate">{similarCategoryProduct.title}</figcaption>
+                    </figure>
+                  </Link>
+                </div>
+              );
+            }
+          })}
+        </div>
+      </div>
       <div className="similar-products p-4">
-          
+        <h2 className="text-xl font-semibold pb-2 border-b-1 border-amber-700">Similar Brand Products:</h2>
+        <div className="flex flex-wrap gap-4 py-4">
+          {similarProducts && similarProducts.map(similarProduct => {
+            if (similarProduct.id !== product.id) {
+              return (
+                <div className="max-w-3xs">
+                  <Link to={`/${similarProduct.id}`}>
+                    <figure className="bg-white p-2">
+                      <img src={similarProduct.images[0]} alt={similarProduct.title} />
+                      <figcaption className="text-center truncate">{similarProduct.title}</figcaption>
+                    </figure>
+                  </Link>
+                </div>
+              );
+            }
+          })}
+        </div>
       </div>
     </div>
   )
