@@ -5,7 +5,7 @@ const productRoutes = require('./routes/products');
 
 const app = express();
 // serving images
-app.use(express.static('public'));
+app.use(express.static('images'));
 
 app.use(bodyParser.json());
 app.use((req, res, next) => {
