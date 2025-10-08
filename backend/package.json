@@ -13,5 +13,10 @@
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "axios": "^1.12.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }

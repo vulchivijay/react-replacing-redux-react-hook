@@ -53,12 +53,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5784719087687",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "essence-mascara-lash-princess.webp"
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
       ],
-      "thumbnail": "essence-mascara-lash-princess.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
     },
     {
       "id": 2,
@@ -113,12 +113,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9170275171413",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "eyeshadow-palette-with-mirror.webp"
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
       ],
-      "thumbnail": "eyeshadow-palette-with-mirror.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
     },
     {
       "id": 3,
@@ -173,12 +173,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8418883906837",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "powder-canister.webp"
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
       ],
-      "thumbnail": "powder-canister.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
     },
     {
       "id": 4,
@@ -233,12 +233,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9467746727219",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "red-lipstick.webp"
+        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
       ],
-      "thumbnail": "red-lipstick.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
     },
     {
       "id": 5,
@@ -293,12 +293,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4063010628104",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "red-nail-polish.webp"
+        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
       ],
-      "thumbnail": "red-nail-polish.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
     },
     {
       "id": 6,
@@ -353,14 +353,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2451534060749",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "calvin-klein-ck-one.webp",
-        "calvin-klein-ck-one_2.webp",
-        "calvin-klein-ck-one_3.webp"
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
       ],
-      "thumbnail": "calvin-klein-ck-one.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
     },
     {
       "id": 7,
@@ -415,14 +415,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4091737746820",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "chanel-coco-noir-eau-de.webp",
-        "chanel-coco-noir-eau-de_2.webp",
-        "chanel-coco-noir-eau-de_3.webp"
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
       ],
-      "thumbnail": "chanel-coco-noir-eau-de.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
     },
     {
       "id": 8,
@@ -477,14 +477,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1445086097250",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "dior-j'adore.webp",
-        "dior-j'adore_2.webp",
-        "dior-j'adore_3.webp"
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
       ],
-      "thumbnail": "dior-j'adore.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
     },
     {
       "id": 9,
@@ -539,14 +539,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3023868210708",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "dolce-shine-eau-de.webp",
-        "dolce-shine-eau-de_2.webp",
-        "dolce-shine-eau-de_3.webp"
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
       ],
-      "thumbnail": "dolce-shine-eau-de.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
     },
     {
       "id": 10,
@@ -601,14 +601,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3170832177880",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "gucci-bloom-eau-de.webp",
-        "gucci-bloom-eau-de_2.webp",
-        "gucci-bloom-eau-de_3.webp"
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
       ],
-      "thumbnail": "gucci-bloom-eau-de.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
     },
     {
       "id": 11,
@@ -663,14 +663,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3610757456581",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "annibale-colombo-bed.webp",
-        "annibale-colombo-bed_2.webp",
-        "annibale-colombo-bed_3.webp"
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
       ],
-      "thumbnail": "annibale-colombo-bed.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
     },
     {
       "id": 12,
@@ -725,14 +725,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1777662847736",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "annibale-colombo-sofa.webp",
-        "annibale-colombo-sofa_2.webp",
-        "annibale-colombo-sofa_3.webp"
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
       ],
-      "thumbnail": "annibale-colombo-sofa.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
     },
     {
       "id": 13,
@@ -787,14 +787,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6441287925979",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "bedside-table-african-cherry.webp",
-        "bedside-table-african-cherry_2.webp",
-        "bedside-table-african-cherry_3.webp"
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
       ],
-      "thumbnail": "bedside-table-african-cherry.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
     },
     {
       "id": 14,
@@ -849,14 +849,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8919386859966",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "knoll-saarinen-executive-conference-chair.webp",
-        "knoll-saarinen-executive-conference-chair_2.webp",
-        "knoll-saarinen-executive-conference-chair_3.webp"
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
       ],
-      "thumbnail": "knoll-saarinen-executive-conference-chair.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
     },
     {
       "id": 15,
@@ -911,14 +911,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1958104402873",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "wooden-bathroom-sink-with-mirror.webp",
-        "wooden-bathroom-sink-with-mirror_2.webp",
-        "wooden-bathroom-sink-with-mirror_3.webp"
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
       ],
-      "thumbnail": "wooden-bathroom-sink-with-mirror.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
     },
     {
       "id": 16,
@@ -971,12 +971,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7962803553314",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
       ],
-      "thumbnail": "apple.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
     },
     {
       "id": 17,
@@ -1029,12 +1029,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5640063409695",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "beef-steak.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
       ],
-      "thumbnail": "beef-steak.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
     },
     {
       "id": 18,
@@ -1088,12 +1088,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1483991328610",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cat-food.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
       ],
-      "thumbnail": "cat-food.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
     },
     {
       "id": 19,
@@ -1146,13 +1146,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8829514594521",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "chicken-meat.webp",
-        "chicken-meat_2.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
       ],
-      "thumbnail": "chicken-meat.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
     },
     {
       "id": 20,
@@ -1205,12 +1205,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4874727824518",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cooking-oil.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
       ],
-      "thumbnail": "cooking-oil.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
     },
     {
       "id": 21,
@@ -1263,12 +1263,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5300066378225",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cucumber.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
       ],
-      "thumbnail": "cucumber.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
     },
     {
       "id": 22,
@@ -1322,12 +1322,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5906686116469",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "dog-food.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
       ],
-      "thumbnail": "dog-food.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
     },
     {
       "id": 23,
@@ -1380,12 +1380,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3478638588469",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "eggs.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
       ],
-      "thumbnail": "eggs.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
     },
     {
       "id": 24,
@@ -1438,12 +1438,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9595036192098",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "fish-steak.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
       ],
-      "thumbnail": "fish-steak.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
     },
     {
       "id": 25,
@@ -1496,12 +1496,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2365227493323",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "green-bell-pepper.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
       ],
-      "thumbnail": "green-bell-pepper.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
     },
     {
       "id": 26,
@@ -1554,12 +1554,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9335000538563",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "green-chili-pepper.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
       ],
-      "thumbnail": "green-chili-pepper.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
     },
     {
       "id": 27,
@@ -1612,12 +1612,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6354306346329",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "honey-jar.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
       ],
-      "thumbnail": "honey-jar.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
     },
     {
       "id": 28,
@@ -1670,15 +1670,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0788954559076",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "ice-cream.webp",
-        "ice-cream_2.webp",
-        "ice-cream_3.webp",
-        "ice-cream_4.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
       ],
-      "thumbnail": "ice-cream.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp"
     },
     {
       "id": 29,
@@ -1731,12 +1731,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6936112580956",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "juice.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
       ],
-      "thumbnail": "juice.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
     },
     {
       "id": 30,
@@ -1789,12 +1789,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2530169917252",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "kiwi.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
       ],
-      "thumbnail": "kiwi.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
     },
     {
       "id": 31,
@@ -1847,12 +1847,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4871812433378",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "lemon.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
       ],
-      "thumbnail": "lemon.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp"
     },
     {
       "id": 32,
@@ -1905,12 +1905,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9835034508303",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "milk.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
       ],
-      "thumbnail": "milk.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp"
     },
     {
       "id": 33,
@@ -1963,12 +1963,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2206629068605",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "mulberry.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
       ],
-      "thumbnail": "mulberry.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp"
     },
     {
       "id": 34,
@@ -2022,12 +2022,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8572637994159",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "nescafe-coffee.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
       ],
-      "thumbnail": "nescafe-coffee.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp"
     },
     {
       "id": 35,
@@ -2080,12 +2080,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3590399655074",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "potatoes.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
       ],
-      "thumbnail": "potatoes.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp"
     },
     {
       "id": 36,
@@ -2138,12 +2138,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0435397154434",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "protein-powder.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
       ],
-      "thumbnail": "protein-powder.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp"
     },
     {
       "id": 37,
@@ -2196,12 +2196,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4716374115631",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "red-onions.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
       ],
-      "thumbnail": "red-onions.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp"
     },
     {
       "id": 38,
@@ -2254,12 +2254,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7339757397015",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rice.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
       ],
-      "thumbnail": "rice.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp"
     },
     {
       "id": 39,
@@ -2312,12 +2312,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2991169581178",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "soft-drinks.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
       ],
-      "thumbnail": "soft-drinks.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp"
     },
     {
       "id": 40,
@@ -2370,12 +2370,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0792647462295",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "strawberry.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
       ],
-      "thumbnail": "strawberry.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp"
     },
     {
       "id": 41,
@@ -2428,13 +2428,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9446468291745",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tissue-paper-box.webp",
-        "tissue-paper-box_2.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/2.webp"
       ],
-      "thumbnail": "tissue-paper-box.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp"
     },
     {
       "id": 42,
@@ -2487,12 +2487,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2409829645213",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "water.webp"
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
       ],
-      "thumbnail": "water.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp"
     },
     {
       "id": 43,
@@ -2546,14 +2546,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9646971048759",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "decoration-swing.webp",
-        "decoration-swing_2.webp",
-        "decoration-swing_3.webp"
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
       ],
-      "thumbnail": "decoration-swing.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp"
     },
     {
       "id": 44,
@@ -2607,12 +2607,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5398738320864",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "family-tree-photo-frame.webp"
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
       ],
-      "thumbnail": "family-tree-photo-frame.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp"
     },
     {
       "id": 45,
@@ -2666,14 +2666,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8433795204995",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "house-showpiece-plant.webp",
-        "house-showpiece-plant_2.webp",
-        "house-showpiece-plant_3.webp"
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
       ],
-      "thumbnail": "house-showpiece-plant.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp"
     },
     {
       "id": 46,
@@ -2727,15 +2727,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8477070578398",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "plant-pot.webp",
-        "plant-pot_2.webp",
-        "plant-pot_3.webp",
-        "plant-pot_4.webp"
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/3.webp",
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/4.webp"
       ],
-      "thumbnail": "plant-pot.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp"
     },
     {
       "id": 47,
@@ -2789,12 +2789,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8806138916048",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "table-lamp.webp"
+        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
       ],
-      "thumbnail": "table-lamp.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp"
     },
     {
       "id": 48,
@@ -2848,12 +2848,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3988181417733",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "bamboo-spatula.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
       ],
-      "thumbnail": "bamboo-spatula.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp"
     },
     {
       "id": 49,
@@ -2907,13 +2907,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5606164195748",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "black-aluminium-cup.webp",
-        "black-aluminium-cup_2.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
       ],
-      "thumbnail": "black-aluminium-cup.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp"
     },
     {
       "id": 50,
@@ -2967,12 +2967,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3112495795209",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "black-whisk.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
       ],
-      "thumbnail": "black-whisk.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
     },
     {
       "id": 51,
@@ -3026,15 +3026,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4823087836817",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "boxed-blender.webp",
-        "boxed-blender_2.webp",
-        "boxed-blender_3.webp",
-        "boxed-blender_4.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
       ],
-      "thumbnail": "boxed-blender.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp"
     },
     {
       "id": 52,
@@ -3088,12 +3088,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1810862118199",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "carbon-steel-wok.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
       ],
-      "thumbnail": "carbon-steel-wok.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp"
     },
     {
       "id": 53,
@@ -3147,12 +3147,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0085585730728",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "chopping-board.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
       ],
-      "thumbnail": "chopping-board.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp"
     },
     {
       "id": 54,
@@ -3206,12 +3206,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2231952604189",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "citrus-squeezer-yellow.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
       ],
-      "thumbnail": "citrus-squeezer-yellow.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp"
     },
     {
       "id": 55,
@@ -3265,12 +3265,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6456249953517",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "egg-slicer.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
       ],
-      "thumbnail": "egg-slicer.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
     },
     {
       "id": 56,
@@ -3324,15 +3324,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7534096777716",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "electric-stove.webp",
-        "electric-stove_2.webp",
-        "electric-stove_3.webp",
-        "electric-stove_4.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/2.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/3.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/4.webp"
       ],
-      "thumbnail": "electric-stove.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp"
     },
     {
       "id": 57,
@@ -3386,12 +3386,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8181672477425",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "fine-mesh-strainer.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
       ],
-      "thumbnail": "fine-mesh-strainer.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp"
     },
     {
       "id": 58,
@@ -3445,12 +3445,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2851192866410",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "fork.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
       ],
-      "thumbnail": "fork.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp"
     },
     {
       "id": 59,
@@ -3504,12 +3504,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4900880403720",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "glass.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
       ],
-      "thumbnail": "glass.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp"
     },
     {
       "id": 60,
@@ -3563,12 +3563,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2542647841284",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "grater-black.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
       ],
-      "thumbnail": "grater-black.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp"
     },
     {
       "id": 61,
@@ -3622,12 +3622,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1980575898457",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "hand-blender.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp"
       ],
-      "thumbnail": "hand-blender.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp"
     },
     {
       "id": 62,
@@ -3681,12 +3681,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9123541111825",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "ice-cube-tray.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
       ],
-      "thumbnail": "ice-cube-tray.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp"
     },
     {
       "id": 63,
@@ -3740,12 +3740,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7119606190291",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "kitchen-sieve.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp"
       ],
-      "thumbnail": "kitchen-sieve.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp"
     },
     {
       "id": 64,
@@ -3799,12 +3799,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2258278927819",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "knife.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp"
       ],
-      "thumbnail": "knife.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp"
     },
     {
       "id": 65,
@@ -3858,12 +3858,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3287134465440",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "lunch-box.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
       ],
-      "thumbnail": "lunch-box.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp"
     },
     {
       "id": 66,
@@ -3917,15 +3917,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7578271198951",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "microwave-oven.webp",
-        "microwave-oven_2.webp",
-        "microwave-oven_3.webp",
-        "microwave-oven_4.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/3.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/4.webp"
       ],
-      "thumbnail": "microwave-oven.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp"
     },
     {
       "id": 67,
@@ -3979,13 +3979,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4136081478055",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "mug-tree-stand.webp",
-        "mug-tree-stand_2.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/2.webp"
       ],
-      "thumbnail": "mug-tree-stand.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp"
     },
     {
       "id": 68,
@@ -4039,12 +4039,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5159803862015",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "pan.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp"
       ],
-      "thumbnail": "pan.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp"
     },
     {
       "id": 69,
@@ -4098,12 +4098,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8084753475328",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "plate.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp"
       ],
-      "thumbnail": "plate.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp"
     },
     {
       "id": 70,
@@ -4157,12 +4157,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1919888449594",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "red-tongs.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp"
       ],
-      "thumbnail": "red-tongs.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp"
     },
     {
       "id": 71,
@@ -4216,12 +4216,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9757232943842",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "silver-pot-with-glass-cap.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
       ],
-      "thumbnail": "silver-pot-with-glass-cap.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp"
     },
     {
       "id": 72,
@@ -4275,12 +4275,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4396291569672",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "slotted-turner.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp"
       ],
-      "thumbnail": "slotted-turner.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp"
     },
     {
       "id": 73,
@@ -4334,12 +4334,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6149284465708",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "spice-rack.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
       ],
-      "thumbnail": "spice-rack.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp"
     },
     {
       "id": 74,
@@ -4393,12 +4393,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7769627934740",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "spoon.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
       ],
-      "thumbnail": "spoon.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp"
     },
     {
       "id": 75,
@@ -4452,12 +4452,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5239514403214",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tray.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
       ],
-      "thumbnail": "tray.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp"
     },
     {
       "id": 76,
@@ -4511,12 +4511,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6934305212813",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "wooden-rolling-pin.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp"
       ],
-      "thumbnail": "wooden-rolling-pin.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp"
     },
     {
       "id": 77,
@@ -4570,12 +4570,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8946155386929",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "yellow-peeler.webp"
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp"
       ],
-      "thumbnail": "yellow-peeler.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp"
     },
     {
       "id": 78,
@@ -4630,14 +4630,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5275211560367",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-macbook-pro-14-inch-space-grey.webp",
-        "apple-macbook-pro-14-inch-space-grey_2.webp",
-        "apple-macbook-pro-14-inch-space-grey_3.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
       ],
-      "thumbnail": "apple-macbook-pro-14-inch-space-grey.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
     },
     {
       "id": 79,
@@ -4691,14 +4691,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7392988535158",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "asus-zenbook-pro-dual-screen-laptop.webp",
-        "asus-zenbook-pro-dual-screen-laptop_2.webp",
-        "asus-zenbook-pro-dual-screen-laptop_3.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
       ],
-      "thumbnail": "asus-zenbook-pro-dual-screen-laptop.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
     },
     {
       "id": 80,
@@ -4752,14 +4752,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0592296671061",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "huawei-matebook-x-pro.webp",
-        "huawei-matebook-x-pro_2.webp",
-        "huawei-matebook-x-pro_3.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
       ],
-      "thumbnail": "huawei-matebook-x-pro.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
     },
     {
       "id": 81,
@@ -4813,14 +4813,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5506742916764",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "lenovo-yoga-920.webp",
-        "lenovo-yoga-920_2.webp",
-        "lenovo-yoga-920_3.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/3.webp"
       ],
-      "thumbnail": "lenovo-yoga-920.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
     },
     {
       "id": 82,
@@ -4874,14 +4874,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5963805976904",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "new-dell-xps-13-9300-laptop.webp",
-        "new-dell-xps-13-9300-laptop_2.webp",
-        "new-dell-xps-13-9300-laptop_3.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "new-dell-xps-13-9300-laptop.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
     },
     {
       "id": 83,
@@ -4936,15 +4936,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7148674604957",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "blue-&-black-check-shirt.webp",
-        "blue-&-black-check-shirt_2.webp",
-        "blue-&-black-check-shirt_3.webp",
-        "blue-&-black-check-shirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
       ],
-      "thumbnail": "blue-&-black-check-shirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
     },
     {
       "id": 84,
@@ -4999,15 +4999,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1654388837068",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "gigabyte-aorus-men-tshirt.webp",
-        "gigabyte-aorus-men-tshirt_2.webp",
-        "gigabyte-aorus-men-tshirt_3.webp",
-        "gigabyte-aorus-men-tshirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
       ],
-      "thumbnail": "gigabyte-aorus-men-tshirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
     },
     {
       "id": 85,
@@ -5062,15 +5062,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2821496314023",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "man-plaid-shirt.webp",
-        "man-plaid-shirt_2.webp",
-        "man-plaid-shirt_3.webp",
-        "man-plaid-shirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/4.webp"
       ],
-      "thumbnail": "man-plaid-shirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
     },
     {
       "id": 86,
@@ -5125,15 +5125,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9995865660204",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "man-short-sleeve-shirt.webp",
-        "man-short-sleeve-shirt_2.webp",
-        "man-short-sleeve-shirt_3.webp",
-        "man-short-sleeve-shirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/4.webp"
       ],
-      "thumbnail": "man-short-sleeve-shirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
     },
     {
       "id": 87,
@@ -5188,15 +5188,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9680331363394",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "men-check-shirt.webp",
-        "men-check-shirt_2.webp",
-        "men-check-shirt_3.webp",
-        "men-check-shirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/4.webp"
       ],
-      "thumbnail": "men-check-shirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
     },
     {
       "id": 88,
@@ -5251,15 +5251,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7631625812393",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "nike-air-jordan-1-red-and-black.webp",
-        "nike-air-jordan-1-red-and-black_2.webp",
-        "nike-air-jordan-1-red-and-black_3.webp",
-        "nike-air-jordan-1-red-and-black_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
       ],
-      "thumbnail": "nike-air-jordan-1-red-and-black.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
     },
     {
       "id": 89,
@@ -5314,15 +5314,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2449851358796",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "nike-baseball-cleats.webp",
-        "nike-baseball-cleats_2.webp",
-        "nike-baseball-cleats_3.webp",
-        "nike-baseball-cleats_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/4.webp"
       ],
-      "thumbnail": "nike-baseball-cleats.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
     },
     {
       "id": 90,
@@ -5377,15 +5377,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9715091831404",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "puma-future-rider-trainers.webp",
-        "puma-future-rider-trainers_2.webp",
-        "puma-future-rider-trainers_3.webp",
-        "puma-future-rider-trainers_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/4.webp"
       ],
-      "thumbnail": "puma-future-rider-trainers.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
     },
     {
       "id": 91,
@@ -5440,15 +5440,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6740319943645",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "sports-sneakers-off-white-&-red.webp",
-        "sports-sneakers-off-white-&-red_2.webp",
-        "sports-sneakers-off-white-&-red_3.webp",
-        "sports-sneakers-off-white-&-red_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
       ],
-      "thumbnail": "sports-sneakers-off-white-&-red.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
     },
     {
       "id": 92,
@@ -5503,15 +5503,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0430266023617",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "sports-sneakers-off-white-red.webp",
-        "sports-sneakers-off-white-red_2.webp",
-        "sports-sneakers-off-white-red_3.webp",
-        "sports-sneakers-off-white-red_4.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
       ],
-      "thumbnail": "sports-sneakers-off-white-red.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
     },
     {
       "id": 93,
@@ -5566,14 +5566,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4027206714862",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "brown-leather-belt-watch.webp",
-        "brown-leather-belt-watch_2.webp",
-        "brown-leather-belt-watch_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
       ],
-      "thumbnail": "brown-leather-belt-watch.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
     },
     {
       "id": 94,
@@ -5628,14 +5628,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5984080925625",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "longines-master-collection.webp",
-        "longines-master-collection_2.webp",
-        "longines-master-collection_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp"
       ],
-      "thumbnail": "longines-master-collection.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp"
     },
     {
       "id": 95,
@@ -5690,14 +5690,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "9663455783895",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-cellini-date-black-dial.webp",
-        "rolex-cellini-date-black-dial_2.webp",
-        "rolex-cellini-date-black-dial_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
       ],
-      "thumbnail": "rolex-cellini-date-black-dial.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp"
     },
     {
       "id": 96,
@@ -5752,14 +5752,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1957304538726",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-cellini-moonphase.webp",
-        "rolex-cellini-moonphase_2.webp",
-        "rolex-cellini-moonphase_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/3.webp"
       ],
-      "thumbnail": "rolex-cellini-moonphase.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp"
     },
     {
       "id": 97,
@@ -5814,14 +5814,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8893788734644",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-datejust.webp",
-        "rolex-datejust_2.webp",
-        "rolex-datejust_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/3.webp"
       ],
-      "thumbnail": "rolex-datejust.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp"
     },
     {
       "id": 98,
@@ -5876,14 +5876,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7133320173118",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-submariner-watch.webp",
-        "rolex-submariner-watch_2.webp",
-        "rolex-submariner-watch_3.webp"
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/3.webp"
       ],
-      "thumbnail": "rolex-submariner-watch.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
     },
     {
       "id": 99,
@@ -5938,13 +5938,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2256117192038",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "amazon-echo-plus.webp",
-        "amazon-echo-plus_2.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
       ],
-      "thumbnail": "amazon-echo-plus.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
     },
     {
       "id": 100,
@@ -5999,14 +5999,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1104115683955",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-airpods.webp",
-        "apple-airpods_2.webp",
-        "apple-airpods_3.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
       ],
-      "thumbnail": "apple-airpods.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
     },
     {
       "id": 101,
@@ -6061,12 +6061,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4062176053732",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-airpods-max-silver.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
       ],
-      "thumbnail": "apple-airpods-max-silver.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
     },
     {
       "id": 102,
@@ -6121,12 +6121,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3323662242939",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-airpower-wireless-charger.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
       ],
-      "thumbnail": "apple-airpower-wireless-charger.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp"
     },
     {
       "id": 103,
@@ -6181,12 +6181,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6135642608024",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-homepod-mini-cosmic-grey.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
       ],
-      "thumbnail": "apple-homepod-mini-cosmic-grey.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp"
     },
     {
       "id": 104,
@@ -6241,13 +6241,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "0879776541417",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-iphone-charger.webp",
-        "apple-iphone-charger_2.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/2.webp"
       ],
-      "thumbnail": "apple-iphone-charger.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp"
     },
     {
       "id": 105,
@@ -6302,13 +6302,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "5157424897794",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-magsafe-battery-pack.webp",
-        "apple-magsafe-battery-pack_2.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/2.webp"
       ],
-      "thumbnail": "apple-magsafe-battery-pack.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp"
     },
     {
       "id": 106,
@@ -6363,14 +6363,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3921248718888",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "apple-watch-series-4-gold.webp",
-        "apple-watch-series-4-gold_2.webp",
-        "apple-watch-series-4-gold_3.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/3.webp"
       ],
-      "thumbnail": "apple-watch-series-4-gold.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
     },
     {
       "id": 107,
@@ -6425,12 +6425,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1741271692174",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "beats-flex-wireless-earphones.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
       ],
-      "thumbnail": "beats-flex-wireless-earphones.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
     },
     {
       "id": 108,
@@ -6485,15 +6485,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "8156838251449",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iphone-12-silicone-case-with-magsafe-plum.webp",
-        "iphone-12-silicone-case-with-magsafe-plum_2.webp",
-        "iphone-12-silicone-case-with-magsafe-plum_3.webp",
-        "iphone-12-silicone-case-with-magsafe-plum_4.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/2.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/3.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/4.webp"
       ],
-      "thumbnail": "iphone-12-silicone-case-with-magsafe-plum.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp"
     },
     {
       "id": 109,
@@ -6548,13 +6548,13 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2915346477518",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "monopod.webp",
-        "monopod_2.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp"
       ],
-      "thumbnail": "monopod.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp"
     },
     {
       "id": 110,
@@ -6609,12 +6609,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "4372781189895",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "selfie-lamp-with-iphone.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
       ],
-      "thumbnail": "selfie-lamp-with-iphone.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp"
     },
     {
       "id": 111,
@@ -6669,12 +6669,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7063982050226",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "selfie-stick-monopod.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
       ],
-      "thumbnail": "selfie-stick-monopod.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp"
     },
     {
       "id": 112,
@@ -6729,12 +6729,12 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1488782082307",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tv-studio-camera-pedestal.webp"
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
       ],
-      "thumbnail": "tv-studio-camera-pedestal.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp"
     },
     {
       "id": 113,
@@ -6788,15 +6788,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "2304118422941",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "generic-motorcycle.webp",
-        "generic-motorcycle_2.webp",
-        "generic-motorcycle_3.webp",
-        "generic-motorcycle_4.webp"
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/2.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/3.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/4.webp"
       ],
-      "thumbnail": "generic-motorcycle.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp"
     },
     {
       "id": 114,
@@ -6851,15 +6851,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "7320871299196",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "kawasaki-z800.webp",
-        "kawasaki-z800_2.webp",
-        "kawasaki-z800_3.webp",
-        "kawasaki-z800_4.webp"
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/2.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/3.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/4.webp"
       ],
-      "thumbnail": "kawasaki-z800.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp"
     },
     {
       "id": 115,
@@ -6914,15 +6914,15 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "1635178066049",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "motogp-ci.h1.webp",
-        "motogp-ci.h1_2.webp",
-        "motogp-ci.h1_3.webp",
-        "motogp-ci.h1_4.webp"
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/2.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/3.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/4.webp"
       ],
-      "thumbnail": "motogp-ci.h1.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp"
     },
     {
       "id": 116,
@@ -6977,15 +6977,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6595209798181",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "scooter-motorcycle.webp",
-        "scooter-motorcycle_2.webp",
-        "scooter-motorcycle_3.webp",
-        "scooter-motorcycle_4.webp"
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/2.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/3.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/4.webp"
       ],
-      "thumbnail": "scooter-motorcycle.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp"
     },
     {
       "id": 117,
@@ -7040,15 +7040,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8451323904420",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "sportbike-motorcycle.webp",
-        "sportbike-motorcycle_2.webp",
-        "sportbike-motorcycle_3.webp",
-        "sportbike-motorcycle_4.webp"
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/2.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/3.webp",
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/4.webp"
       ],
-      "thumbnail": "sportbike-motorcycle.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp"
     },
     {
       "id": 118,
@@ -7103,14 +7103,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "3566048905322",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "attitude-super-leaves-hand-soap.webp",
-        "attitude-super-leaves-hand-soap_2.webp",
-        "attitude-super-leaves-hand-soap_3.webp"
+        "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/3.webp"
       ],
-      "thumbnail": "attitude-super-leaves-hand-soap.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp"
     },
     {
       "id": 119,
@@ -7165,14 +7165,14 @@
         "createdAt": "2025-04-30T09:41:02.053Z",
         "updatedAt": "2025-04-30T09:41:02.053Z",
         "barcode": "6532659691643",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "olay-ultra-moisture-shea-butter-body-wash.webp",
-        "olay-ultra-moisture-shea-butter-body-wash_2.webp",
-        "olay-ultra-moisture-shea-butter-body-wash_3.webp"
+        "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/3.webp"
       ],
-      "thumbnail": "olay-ultra-moisture-shea-butter-body-wash.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp"
     },
     {
       "id": 120,
@@ -7227,14 +7227,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8483207319090",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "vaseline-men-body-and-face-lotion.webp",
-        "vaseline-men-body-and-face-lotion_2.webp",
-        "vaseline-men-body-and-face-lotion_3.webp"
+        "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/2.webp",
+        "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/3.webp"
       ],
-      "thumbnail": "vaseline-men-body-and-face-lotion.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp"
     },
     {
       "id": 121,
@@ -7289,14 +7289,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8814683940853",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iphone-5s.webp",
-        "iphone-5s_2.webp",
-        "iphone-5s_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/3.webp"
       ],
-      "thumbnail": "iphone-5s.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp"
     },
     {
       "id": 122,
@@ -7351,14 +7351,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9922357685013",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iphone-6.webp",
-        "iphone-6_2.webp",
-        "iphone-6_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/3.webp"
       ],
-      "thumbnail": "iphone-6.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp"
     },
     {
       "id": 123,
@@ -7413,14 +7413,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4998438802308",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iphone-13-pro.webp",
-        "iphone-13-pro_2.webp",
-        "iphone-13-pro_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/3.webp"
       ],
-      "thumbnail": "iphone-13-pro.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp"
     },
     {
       "id": 124,
@@ -7475,14 +7475,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "3034949322264",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iphone-x.webp",
-        "iphone-x_2.webp",
-        "iphone-x_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/3.webp"
       ],
-      "thumbnail": "iphone-x.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp"
     },
     {
       "id": 125,
@@ -7537,14 +7537,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0651223722522",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "oppo-a57.webp",
-        "oppo-a57_2.webp",
-        "oppo-a57_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/3.webp"
       ],
-      "thumbnail": "oppo-a57.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
     },
     {
       "id": 126,
@@ -7599,14 +7599,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8576893968169",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "oppo-f19-pro-plus.webp",
-        "oppo-f19-pro-plus_2.webp",
-        "oppo-f19-pro-plus_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/3.webp"
       ],
-      "thumbnail": "oppo-f19-pro-plus.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp"
     },
     {
       "id": 127,
@@ -7661,15 +7661,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "3106827888743",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "oppo-k1.webp",
-        "oppo-k1_2.webp",
-        "oppo-k1_3.webp",
-        "oppo-k1_4.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/3.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/4.webp"
       ],
-      "thumbnail": "oppo-k1.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp"
     },
     {
       "id": 128,
@@ -7724,14 +7724,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7825844344364",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "realme-c35.webp",
-        "realme-c35_2.webp",
-        "realme-c35_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/3.webp"
       ],
-      "thumbnail": "realme-c35.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp"
     },
     {
       "id": 129,
@@ -7786,14 +7786,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4948452391831",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "realme-x.webp",
-        "realme-x_2.webp",
-        "realme-x_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/3.webp"
       ],
-      "thumbnail": "realme-x.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp"
     },
     {
       "id": 130,
@@ -7848,14 +7848,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6151817227632",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "realme-xt.webp",
-        "realme-xt_2.webp",
-        "realme-xt_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/3.webp"
       ],
-      "thumbnail": "realme-xt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp"
     },
     {
       "id": 131,
@@ -7910,14 +7910,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7557912146622",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "samsung-galaxy-s7.webp",
-        "samsung-galaxy-s7_2.webp",
-        "samsung-galaxy-s7_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/3.webp"
       ],
-      "thumbnail": "samsung-galaxy-s7.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp"
     },
     {
       "id": 132,
@@ -7972,14 +7972,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5995499013336",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "samsung-galaxy-s8.webp",
-        "samsung-galaxy-s8_2.webp",
-        "samsung-galaxy-s8_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/3.webp"
       ],
-      "thumbnail": "samsung-galaxy-s8.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp"
     },
     {
       "id": 133,
@@ -8034,14 +8034,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4676898229465",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "samsung-galaxy-s10.webp",
-        "samsung-galaxy-s10_2.webp",
-        "samsung-galaxy-s10_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/3.webp"
       ],
-      "thumbnail": "samsung-galaxy-s10.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp"
     },
     {
       "id": 134,
@@ -8096,14 +8096,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8575699153333",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "vivo-s1.webp",
-        "vivo-s1_2.webp",
-        "vivo-s1_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/3.webp"
       ],
-      "thumbnail": "vivo-s1.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp"
     },
     {
       "id": 135,
@@ -8158,14 +8158,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4295398764784",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "vivo-v9.webp",
-        "vivo-v9_2.webp",
-        "vivo-v9_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/3.webp"
       ],
-      "thumbnail": "vivo-v9.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp"
     },
     {
       "id": 136,
@@ -8220,14 +8220,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9944308291810",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "vivo-x21.webp",
-        "vivo-x21_2.webp",
-        "vivo-x21_3.webp"
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/2.webp",
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/3.webp"
       ],
-      "thumbnail": "vivo-x21.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp"
     },
     {
       "id": 137,
@@ -8281,12 +8281,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0984311727547",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "american-football.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
       ],
-      "thumbnail": "american-football.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
     },
     {
       "id": 138,
@@ -8340,12 +8340,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8981184448425",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "baseball-ball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
       ],
-      "thumbnail": "baseball-ball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
     },
     {
       "id": 139,
@@ -8399,14 +8399,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "1607433635330",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "baseball-glove.webp",
-        "baseball-glove_2.webp",
-        "baseball-glove_3.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp",
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/3.webp"
       ],
-      "thumbnail": "baseball-glove.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
     },
     {
       "id": 140,
@@ -8460,12 +8460,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "3219724919696",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "basketball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
       ],
-      "thumbnail": "basketball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
     },
     {
       "id": 141,
@@ -8519,12 +8519,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6916173283925",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "basketball-rim.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
       ],
-      "thumbnail": "basketball-rim.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
     },
     {
       "id": 142,
@@ -8578,12 +8578,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0027512125380",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cricket-ball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
       ],
-      "thumbnail": "cricket-ball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
     },
     {
       "id": 143,
@@ -8637,12 +8637,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "1225217575490",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cricket-bat.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
       ],
-      "thumbnail": "cricket-bat.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
     },
     {
       "id": 144,
@@ -8696,15 +8696,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2192738034162",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cricket-helmet.webp",
-        "cricket-helmet_2.webp",
-        "cricket-helmet_3.webp",
-        "cricket-helmet_4.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp",
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/2.webp",
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/3.webp",
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/4.webp"
       ],
-      "thumbnail": "cricket-helmet.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
     },
     {
       "id": 145,
@@ -8758,12 +8758,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9514466946651",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "cricket-wicket.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
       ],
-      "thumbnail": "cricket-wicket.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp"
     },
     {
       "id": 146,
@@ -8817,12 +8817,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5360325610488",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "feather-shuttlecock.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
       ],
-      "thumbnail": "feather-shuttlecock.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp"
     },
     {
       "id": 147,
@@ -8876,12 +8876,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7605305555987",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "football.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
       ],
-      "thumbnail": "football.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp"
     },
     {
       "id": 148,
@@ -8935,12 +8935,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6940117186155",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "golf-ball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
       ],
-      "thumbnail": "golf-ball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp"
     },
     {
       "id": 149,
@@ -8994,12 +8994,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4196059523236",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iron-golf.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
       ],
-      "thumbnail": "iron-golf.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp"
     },
     {
       "id": 150,
@@ -9053,12 +9053,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7296388268295",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "metal-baseball-bat.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
       ],
-      "thumbnail": "metal-baseball-bat.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp"
     },
     {
       "id": 151,
@@ -9112,12 +9112,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2793132647969",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tennis-ball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
       ],
-      "thumbnail": "tennis-ball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp"
     },
     {
       "id": 152,
@@ -9171,12 +9171,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5611498376196",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tennis-racket.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
       ],
-      "thumbnail": "tennis-racket.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp"
     },
     {
       "id": 153,
@@ -9230,12 +9230,12 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6348576170594",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "volleyball.webp"
+        "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
       ],
-      "thumbnail": "volleyball.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp"
     },
     {
       "id": 154,
@@ -9290,14 +9290,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "1045032983803",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "black-sun-glasses.webp",
-        "black-sun-glasses_2.webp",
-        "black-sun-glasses_3.webp"
+        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
       ],
-      "thumbnail": "black-sun-glasses.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp"
     },
     {
       "id": 155,
@@ -9352,14 +9352,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5771263118885",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "classic-sun-glasses.webp",
-        "classic-sun-glasses_2.webp",
-        "classic-sun-glasses_3.webp"
+        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp"
       ],
-      "thumbnail": "classic-sun-glasses.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp"
     },
     {
       "id": 156,
@@ -9414,14 +9414,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0635466237296",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "green-and-black-glasses.webp",
-        "green-and-black-glasses_2.webp",
-        "green-and-black-glasses_3.webp"
+        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/2.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/3.webp"
       ],
-      "thumbnail": "green-and-black-glasses.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp"
     },
     {
       "id": 157,
@@ -9476,14 +9476,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8806276971112",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "party-glasses.webp",
-        "party-glasses_2.webp",
-        "party-glasses_3.webp"
+        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/2.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/3.webp"
       ],
-      "thumbnail": "party-glasses.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp"
     },
     {
       "id": 158,
@@ -9538,14 +9538,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8850931201716",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "sunglasses.webp",
-        "sunglasses_2.webp",
-        "sunglasses_3.webp"
+        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/2.webp",
+        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/3.webp"
       ],
-      "thumbnail": "sunglasses.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp"
     },
     {
       "id": 159,
@@ -9600,15 +9600,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6267995330420",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "ipad-mini-2021-starlight.webp",
-        "ipad-mini-2021-starlight_2.webp",
-        "ipad-mini-2021-starlight_3.webp",
-        "ipad-mini-2021-starlight_4.webp"
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/2.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/3.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/4.webp"
       ],
-      "thumbnail": "ipad-mini-2021-starlight.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp"
     },
     {
       "id": 160,
@@ -9663,15 +9663,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5021907981204",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "samsung-galaxy-tab-s8-plus-grey.webp",
-        "samsung-galaxy-tab-s8-plus-grey_2.webp",
-        "samsung-galaxy-tab-s8-plus-grey_3.webp",
-        "samsung-galaxy-tab-s8-plus-grey_4.webp"
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/3.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/4.webp"
       ],
-      "thumbnail": "samsung-galaxy-tab-s8-plus-grey.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp"
     },
     {
       "id": 161,
@@ -9726,15 +9726,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "3477850755498",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "samsung-galaxy-tab-white.webp",
-        "samsung-galaxy-tab-white_2.webp",
-        "samsung-galaxy-tab-white_3.webp",
-        "samsung-galaxy-tab-white_4.webp"
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/2.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/3.webp",
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/4.webp"
       ],
-      "thumbnail": "samsung-galaxy-tab-white.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp"
     },
     {
       "id": 162,
@@ -9788,15 +9788,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6410441827139",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "blue-frock.webp",
-        "blue-frock_2.webp",
-        "blue-frock_3.webp",
-        "blue-frock_4.webp"
+        "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/blue-frock/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/blue-frock/4.webp"
       ],
-      "thumbnail": "blue-frock.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp"
     },
     {
       "id": 163,
@@ -9850,15 +9850,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6273976484433",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "girl-summer-dress.webp",
-        "girl-summer-dress_2.webp",
-        "girl-summer-dress_3.webp",
-        "girl-summer-dress_4.webp"
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/4.webp"
       ],
-      "thumbnail": "girl-summer-dress.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp"
     },
     {
       "id": 164,
@@ -9912,15 +9912,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5201099489825",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "gray-dress.webp",
-        "gray-dress_2.webp",
-        "gray-dress_3.webp",
-        "gray-dress_4.webp"
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/4.webp"
       ],
-      "thumbnail": "gray-dress.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp"
     },
     {
       "id": 165,
@@ -9974,15 +9974,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2022014761829",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "short-frock.webp",
-        "short-frock_2.webp",
-        "short-frock_3.webp",
-        "short-frock_4.webp"
+        "https://cdn.dummyjson.com/product-images/tops/short-frock/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/short-frock/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/short-frock/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/short-frock/4.webp"
       ],
-      "thumbnail": "short-frock.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp"
     },
     {
       "id": 166,
@@ -10036,15 +10036,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "3383823083995",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tartan-dress.webp",
-        "tartan-dress_2.webp",
-        "tartan-dress_3.webp",
-        "tartan-dress_4.webp"
+        "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/tartan-dress/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/tartan-dress/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/tartan-dress/4.webp"
       ],
-      "thumbnail": "tartan-dress.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp"
     },
     {
       "id": 167,
@@ -10099,17 +10099,17 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "6337799339397",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "300-touring.webp",
-        "300-touring_2.webp",
-        "300-touring_3.webp",
-        "300-touring_4.webp",
-        "300-touring/5.webp",
-        "300-touring/6.webp"
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/2.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/3.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/4.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/5.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/6.webp"
       ],
-      "thumbnail": "300-touring.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp"
     },
     {
       "id": 168,
@@ -10165,17 +10165,17 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0376498933302",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "charger-sxt-rwd.webp",
-        "charger-sxt-rwd_2.webp",
-        "charger-sxt-rwd_3.webp",
-        "charger-sxt-rwd_4.webp",
-        "charger-sxt-rwd/5.webp",
-        "charger-sxt-rwd/6.webp"
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/2.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/3.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/4.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/5.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/6.webp"
       ],
-      "thumbnail": "charger-sxt-rwd.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp"
     },
     {
       "id": 169,
@@ -10231,17 +10231,17 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8578515136594",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "dodge-hornet-gt-plus.webp",
-        "dodge-hornet-gt-plus_2.webp",
-        "dodge-hornet-gt-plus_3.webp",
-        "dodge-hornet-gt-plus_4.webp",
-        "dodge-hornet-gt-plus/5.webp",
-        "dodge-hornet-gt-plus/6.webp"
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/2.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/3.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/4.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/5.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/6.webp"
       ],
-      "thumbnail": "dodge-hornet-gt-plus.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp"
     },
     {
       "id": 170,
@@ -10296,17 +10296,17 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7539220768239",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "durango-sxt-rwd.webp",
-        "durango-sxt-rwd_2.webp",
-        "durango-sxt-rwd_3.webp",
-        "durango-sxt-rwd_4.webp",
-        "durango-sxt-rwd/5.webp",
-        "durango-sxt-rwd/6.webp"
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/2.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/3.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/4.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/5.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/6.webp"
       ],
-      "thumbnail": "durango-sxt-rwd.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/thumbnail.webp"
     },
     {
       "id": 171,
@@ -10361,17 +10361,17 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2500742117107",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "pacifica-touring.webp",
-        "pacifica-touring_2.webp",
-        "pacifica-touring_3.webp",
-        "pacifica-touring_4.webp",
-        "pacifica-touring/5.webp",
-        "pacifica-touring/6.webp"
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/1.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/2.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/3.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/4.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/5.webp",
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/6.webp"
       ],
-      "thumbnail": "pacifica-touring.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/thumbnail.webp"
     },
     {
       "id": 172,
@@ -10426,14 +10426,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0558998280008",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "blue-women's-handbag.webp",
-        "blue-women's-handbag_2.webp",
-        "blue-women's-handbag_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/3.webp"
       ],
-      "thumbnail": "blue-women's-handbag.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp"
     },
     {
       "id": 173,
@@ -10488,14 +10488,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4616258239513",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "heshe-women's-leather-bag.webp",
-        "heshe-women's-leather-bag_2.webp",
-        "heshe-women's-leather-bag_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/3.webp"
       ],
-      "thumbnail": "heshe-women's-leather-bag.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp"
     },
     {
       "id": 174,
@@ -10550,14 +10550,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9614237439330",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "prada-women-bag.webp",
-        "prada-women-bag_2.webp",
-        "prada-women-bag_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/3.webp"
       ],
-      "thumbnail": "prada-women-bag.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp"
     },
     {
       "id": 175,
@@ -10612,14 +10612,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8983558170212",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "white-faux-leather-backpack.webp",
-        "white-faux-leather-backpack_2.webp",
-        "white-faux-leather-backpack_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/3.webp"
       ],
-      "thumbnail": "white-faux-leather-backpack.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp"
     },
     {
       "id": 176,
@@ -10674,14 +10674,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4283648448769",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "women-handbag-black.webp",
-        "women-handbag-black_2.webp",
-        "women-handbag-black_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp"
       ],
-      "thumbnail": "women-handbag-black.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
     },
     {
       "id": 177,
@@ -10735,15 +10735,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0630346013554",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "black-women's-gown.webp",
-        "black-women's-gown_2.webp",
-        "black-women's-gown_3.webp",
-        "black-women's-gown_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/4.webp"
       ],
-      "thumbnail": "black-women's-gown.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/thumbnail.webp"
     },
     {
       "id": 178,
@@ -10798,15 +10798,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2931500162745",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "corset-leather-with-skirt.webp",
-        "corset-leather-with-skirt_2.webp",
-        "corset-leather-with-skirt_3.webp",
-        "corset-leather-with-skirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/4.webp"
       ],
-      "thumbnail": "corset-leather-with-skirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp"
     },
     {
       "id": 179,
@@ -10861,15 +10861,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9336695899390",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "corset-with-black-skirt.webp",
-        "corset-with-black-skirt_2.webp",
-        "corset-with-black-skirt_3.webp",
-        "corset-with-black-skirt_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/4.webp"
       ],
-      "thumbnail": "corset-with-black-skirt.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp"
     },
     {
       "id": 180,
@@ -10923,15 +10923,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8142375980193",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "dress-pea.webp",
-        "dress-pea_2.webp",
-        "dress-pea_3.webp",
-        "dress-pea_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/4.webp"
       ],
-      "thumbnail": "dress-pea.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp"
     },
     {
       "id": 181,
@@ -10985,15 +10985,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7479689140965",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "marni-red-&-black-suit.webp",
-        "marni-red-&-black-suit_2.webp",
-        "marni-red-&-black-suit_3.webp",
-        "marni-red-&-black-suit_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/4.webp"
       ],
-      "thumbnail": "marni-red-&-black-suit.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp"
     },
     {
       "id": 182,
@@ -11047,14 +11047,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "1680580323411",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "green-crystal-earring.webp",
-        "green-crystal-earring_2.webp",
-        "green-crystal-earring_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/3.webp"
       ],
-      "thumbnail": "green-crystal-earring.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp"
     },
     {
       "id": 183,
@@ -11108,14 +11108,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4782555577213",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "green-oval-earring.webp",
-        "green-oval-earring_2.webp",
-        "green-oval-earring_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/3.webp"
       ],
-      "thumbnail": "green-oval-earring.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/thumbnail.webp"
     },
     {
       "id": 184,
@@ -11169,14 +11169,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7759380216135",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "tropical-earring.webp",
-        "tropical-earring_2.webp",
-        "tropical-earring_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/3.webp"
       ],
-      "thumbnail": "tropical-earring.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/thumbnail.webp"
     },
     {
       "id": 185,
@@ -11231,15 +11231,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5732146194724",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "black-&-brown-slipper.webp",
-        "black-&-brown-slipper_2.webp",
-        "black-&-brown-slipper_3.webp",
-        "black-&-brown-slipper_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/4.webp"
       ],
-      "thumbnail": "black-&-brown-slipper.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.webp"
     },
     {
       "id": 186,
@@ -11294,15 +11294,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0196443645959",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "calvin-klein-heel-shoes.webp",
-        "calvin-klein-heel-shoes_2.webp",
-        "calvin-klein-heel-shoes_3.webp",
-        "calvin-klein-heel-shoes_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/4.webp"
       ],
-      "thumbnail": "calvin-klein-heel-shoes.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp"
     },
     {
       "id": 187,
@@ -11357,15 +11357,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "0365072601388",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "golden-shoes-woman.webp",
-        "golden-shoes-woman_2.webp",
-        "golden-shoes-woman_3.webp",
-        "golden-shoes-woman_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/4.webp"
       ],
-      "thumbnail": "golden-shoes-woman.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/thumbnail.webp"
     },
     {
       "id": 188,
@@ -11420,15 +11420,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "9686058230535",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "pampi-shoes.webp",
-        "pampi-shoes_2.webp",
-        "pampi-shoes_3.webp",
-        "pampi-shoes_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/4.webp"
       ],
-      "thumbnail": "pampi-shoes.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/thumbnail.webp"
     },
     {
       "id": 189,
@@ -11483,15 +11483,15 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "5817762883655",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "red-shoes.webp",
-        "red-shoes_2.webp",
-        "red-shoes_3.webp",
-        "red-shoes_4.webp"
+        "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/4.webp"
       ],
-      "thumbnail": "red-shoes.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp"
     },
     {
       "id": 190,
@@ -11546,14 +11546,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "7438522857639",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "iwc-ingenieur-automatic-steel.webp",
-        "iwc-ingenieur-automatic-steel_2.webp",
-        "iwc-ingenieur-automatic-steel_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/3.webp"
       ],
-      "thumbnail": "iwc-ingenieur-automatic-steel.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/thumbnail.webp"
     },
     {
       "id": 191,
@@ -11608,14 +11608,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "4608359670564",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-cellini-moonphase.webp",
-        "rolex-cellini-moonphase_2.webp",
-        "rolex-cellini-moonphase_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/3.webp"
       ],
-      "thumbnail": "rolex-cellini-moonphase.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp"
     },
     {
       "id": 192,
@@ -11671,14 +11671,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "1265605585958",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "rolex-datejust-women.webp",
-        "rolex-datejust-women_2.webp",
-        "rolex-datejust-women_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/3.webp"
       ],
-      "thumbnail": "rolex-datejust-women.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/thumbnail.webp"
     },
     {
       "id": 193,
@@ -11733,14 +11733,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "8333241081413",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "watch-gold-for-women.webp",
-        "watch-gold-for-women_2.webp",
-        "watch-gold-for-women_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/3.webp"
       ],
-      "thumbnail": "watch-gold-for-women.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/thumbnail.webp"
     },
     {
       "id": 194,
@@ -11795,14 +11795,14 @@
         "createdAt": "2025-04-30T09:41:02.054Z",
         "updatedAt": "2025-04-30T09:41:02.054Z",
         "barcode": "2093537854573",
-        "qrCode": "qr-code.png"
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "women's-wrist-watch.webp",
-        "women's-wrist-watch_2.webp",
-        "women's-wrist-watch_3.webp"
+        "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/3.webp"
       ],
-      "thumbnail": "women's-wrist-watch.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/thumbnail.webp"
     }
   ],
   "total": 194,
