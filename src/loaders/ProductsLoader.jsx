@@ -7,7 +7,7 @@ export const loader = async () => {
   }
   else {
     const products = await response.json();
-    // configureStore(products);
+    configureStore(products);
     return products;
   }
 };

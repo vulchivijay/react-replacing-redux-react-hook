@@ -17,10 +17,9 @@ export const useStore = function (shouldListen = true) {
 
   const dispatch = (actionIdentifier, payload) => {
     console.log("useStore : ", actionIdentifier, payload);
-    // const newCartState = actions[actionIdentifier](globalState, cartState, payload);
-    // console.log(newCartState);
-    // cartState = newCartState;
-    // console.log(cartState);
+    const newCartState = actions[actionIdentifier](globalState, cartState, payload);
+    cartState = newCartState;
+    console.log(cartState);
     // for (const listner of listeners) {
     //   listner(cartState);
     // }
@@ -28,7 +27,7 @@ export const useStore = function (shouldListen = true) {
 
   useEffect(() => {
     if (shouldListen) {
-      listeners.push(setState)
+      listeners.push(setState);
     }
     return () => {
       listeners = listeners.filter(li => li !== setState)

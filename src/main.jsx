@@ -5,7 +5,7 @@ import App from './App.jsx'
 
 import configureStore from './Hooks/productsStore.jsx';
 
-// configureStore();
+configureStore();
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

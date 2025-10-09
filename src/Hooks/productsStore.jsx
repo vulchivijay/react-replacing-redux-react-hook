@@ -14,23 +14,27 @@ const configureStore = (initialState) => {
       // return { products: updateProducts }
     },
     AddToCart: (curState, cartState, productId) => {
-      console.log(curState, cartState, productId);
-
-      // const cartProducts = [...cartState.products];
-      // const existingCartItemIndex = cartProducts.findIndex(cartItem => cartItem.id === productId);
-      // const existingCartProduct = cartProducts[existingCartItemIndex]
-
-      // if (existingCartProduct) {
-      //   const updateCartProduct = {
-      //     ...existingCartProduct,
-      //     quantity: existingCartProduct.quantity + 1,
-      //   }
-      //   cartProducts[existingCartItemIndex] = updateCartProduct;
-      //   console.log(cartProducts);
-      // }
-      // else {
-      //   const product = cartState.products.find(product => product.id === productId)
-      // }
+      // console.log(curState, cartState, productId);
+      debugger;
+      // const cartProducts = cartState.products;
+      const cartProductIndex = curState.findIndex(cartProduct => cartProduct.id === productId);
+      const cartProduct = curState[cartProductIndex];
+      if (cartState.products.length !== 0) {
+        const cartProducts = [...cartState.products, cartProduct].filter((product, index, self) => index === self.findIndex(product => product.id === productId));
+        cartState = {
+          products: cartProducts,
+          quantity: cartState.quantity + 1,
+          total: (cartState.quantity + 1) * cartProduct.price,
+        }
+      }
+      else {
+        cartState = {
+          products: [...cartState.products, cartProduct],
+          quantity: cartState.quantity + 1,
+          total: (cartState.quantity + 1) * cartProduct.price,
+        }
+      }
+      console.log(cartState);
       // const updatedCartItems = [...cartState.products];
       // const existingCartItemIndex = updatedCartItems.findIndex(cartItem => cartItem.id === productId);
       // const existingCartItem = updatedCartItems[existingCartItemIndex];
@@ -49,9 +53,7 @@ const configureStore = (initialState) => {
       //     quantity: 1,
       //   });
       // }
-      // return {
-      //   items: updatedCartItems,
-      // };
+      return cartState;
     },
     DeleteFromCart: () => {
       //

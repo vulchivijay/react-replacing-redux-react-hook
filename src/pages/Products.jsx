@@ -4,6 +4,7 @@ import ProductsCard from "../components/ProductsCard";
 
 export default function Products() {
   // const store_products = useStore(true)[0];
+  // console.log(store_products);
   const products = useLoaderData();
 
   if (products instanceof Error) {

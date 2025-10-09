@@ -1,14 +1,14 @@
-import { Link, useLoaderData, useParams } from "react-router-dom";
+import { useLoaderData, useParams } from "react-router-dom";
 import Button from "../components/Button";
 import ProductsCardSmall from "../components/ProductsCardSmall";
-// import { useStore } from "../Hooks/useStore";
+import { useStore } from "../Hooks/useStore";
 
 export default function Product() {
   const { product, similarProducts, similarCategories } = useLoaderData();
 
   // const store_products = useStore(true)[0];
-  // const store_dispatch = useStore(true)[1];
-  const { productId } = useParams();
+  const dispatch = useStore(true)[1];
+  // const { productId } = useParams();
   // if (store_products.length === 0) {
   //   throw new Error('Could not find any products.');
   // }
@@ -16,21 +16,24 @@ export default function Product() {
   // if (!store_product) {
   //   throw new Error('Could not find product for id ' + parseInt(id));
   // }
+  // console.log(store_product);
   // const store_similarProducts = products.filter(item => item.brand === product.brand);
   // if (!store_similarProducts) {
   //   throw new NotFoundError('Could not find similar products ' + product.brand);
   // }
+  // console.log(store_similarProducts);
   // const store_similarCategories = products.filter(item => item.category === product.category);
   // if (!store_similarCategories) {
   //   throw new NotFoundError('Could not find similar products ' + product.category);
   // }
+  // console.log(store_similarCategories);
 
   const handleAddToCart = () => {
-    // dispatch('AddToCart', store_product.id);
+    dispatch('AddToCart', product.id);
   }
 
   const handleBuyNow = () => {
-    // dispatch('AddToCart', store_product.id);
+    dispatch('AddToCart', product.id);
   }
 
   return (
@@ -42,7 +45,7 @@ export default function Product() {
             <figcaption></figcaption>
           </figure>
           <div className="flex flex-wrap mt-4 gap-4">
-            {product.images.map(url => <figure className="w-22 bg-white p-1 rounded-md shadow-md">
+            {product.images.map((url, index) => <figure key={index} className="w-22 bg-white p-1 rounded-md shadow-md">
               <img src={`http://localhost:8080/products/${url}`} alt={url} />
             </figure>)}
           </div>
