@@ -1,8 +1,10 @@
-import ProductCard from "../components/ProductCard";
-import { useStore } from "../Hooks/useStore";
+import { useLoaderData } from "react-router-dom";
+import ProductsCard from "../components/ProductsCard";
+// import { useStore } from "../Hooks/useStore";
 
 export default function Products() {
-  const products = useStore(true)[0];
+  // const store_products = useStore(true)[0];
+  const products = useLoaderData();
 
   if (products instanceof Error) {
     return <div>Error</div>;
@@ -13,7 +15,7 @@ export default function Products() {
       <h1 className="sr-only">Products: {products.length}</h1>
       <div className="flex flex-wrap m-auto">
         {products && products.map(product => (
-          <ProductCard key={product.id} product={product} />
+          <ProductsCard key={product.id} product={product} />
         ))}
       </div>
     </div>

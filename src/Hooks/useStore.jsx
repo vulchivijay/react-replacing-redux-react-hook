@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 /**
  * Custom hook to maintain the state management
  */
-let globalState = [];
-let listeners = [];
-let actions = {};
-let cartState = {
+let globalState = []; // products
+let listeners = []; // Do not know why using.
+let actions = {}; // User actions like add, remove
+let cartState = { // Cart status
   products: [],
   quantity: 0,
   total: 0,
@@ -16,12 +16,14 @@ export const useStore = function (shouldListen = true) {
   const setCart = useState(cartState);
 
   const dispatch = (actionIdentifier, payload) => {
-    const newState = actions[actionIdentifier](globalState, cartState, payload);
-    cartState = { ...newState };
-    console.log(cartState);
-    for (const cart of cartState) {
-       listner(cartState)
-    }
+    console.log("useStore : ", actionIdentifier, payload);
+    // const newCartState = actions[actionIdentifier](globalState, cartState, payload);
+    // console.log(newCartState);
+    // cartState = newCartState;
+    // console.log(cartState);
+    // for (const listner of listeners) {
+    //   listner(cartState);
+    // }
   };
 
   useEffect(() => {

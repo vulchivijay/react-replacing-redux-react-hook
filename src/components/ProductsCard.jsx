@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom";
 
-export default function ProductCard({ product }) {
+export default function ProductsCard({ product }) {
   // console.log(product);
   if (product instanceof Error) {
     return <div>Error: {product.message}</div>;
   }
 
   return (
-    <div className="w-50 bg-white m-3 p-4 rounded-xl shadow-md">
+    <div className="w-50 bg-white m-3 p-4 rounded-md shadow-md">
       <Link to={`${product.id}`}>
         <figure>
           <img src={`http://localhost:8080/thumbnail/${product.thumbnail}`} alt={product.title} />

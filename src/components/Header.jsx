@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
-import { useStore } from "../Hooks/useStore";
+// import { useStore } from "../Hooks/useStore";
 
 export default function Header() {
-  const { products } = useStore(true);
+  // const { products } = useStore(true);
 
   return (
     <header className="sticky top-0 left-0 z-50 bg-white py-2 sm:px-4 shadow-md">

@@ -1,33 +1,36 @@
-import { Link, useParams } from "react-router-dom";
+import { Link, useLoaderData, useParams } from "react-router-dom";
 import Button from "../components/Button";
-import { useStore } from "../Hooks/useStore";
+import ProductsCardSmall from "../components/ProductsCardSmall";
+// import { useStore } from "../Hooks/useStore";
 
 export default function Product() {
-  const products = useStore(true)[0];
-  const dispatch = useStore(true)[1];
+  const { product, similarProducts, similarCategories } = useLoaderData();
+
+  // const store_products = useStore(true)[0];
+  // const store_dispatch = useStore(true)[1];
   const { productId } = useParams();
-  if (products.length === 0) {
-    throw new Error('Could not find any products.');
-  }
-  const product = products.find(product => product.id === parseInt(productId));
-  if (!product) {
-    throw new Error('Could not find product for id ' + parseInt(id));
-  }
-  const similarProducts = products.filter(item => item.brand === product.brand);
-  if (!similarProducts) {
-    throw new NotFoundError('Could not find similar products ' + product.brand);
-  }
-  const similarCategories = products.filter(item => item.category === product.category);
-  if (!similarCategories) {
-    throw new NotFoundError('Could not find similar products ' + product.category);
-  }
+  // if (store_products.length === 0) {
+  //   throw new Error('Could not find any products.');
+  // }
+  // const store_product = products.find(product => product.id === parseInt(productId));
+  // if (!store_product) {
+  //   throw new Error('Could not find product for id ' + parseInt(id));
+  // }
+  // const store_similarProducts = products.filter(item => item.brand === product.brand);
+  // if (!store_similarProducts) {
+  //   throw new NotFoundError('Could not find similar products ' + product.brand);
+  // }
+  // const store_similarCategories = products.filter(item => item.category === product.category);
+  // if (!store_similarCategories) {
+  //   throw new NotFoundError('Could not find similar products ' + product.category);
+  // }
 
   const handleAddToCart = () => {
-    dispatch('AddToCart', product.id);
+    // dispatch('AddToCart', store_product.id);
   }
 
   const handleBuyNow = () => {
-    dispatch('AddToCart', product.id);
+    // dispatch('AddToCart', store_product.id);
   }
 
   return (
@@ -38,6 +41,11 @@ export default function Product() {
             <img src={`http://localhost:8080/products/${product.images[0]}`} alt={product.title} />
             <figcaption></figcaption>
           </figure>
+          <div className="flex flex-wrap mt-4 gap-4">
+            {product.images.map(url => <figure className="w-22 bg-white p-1 rounded-md shadow-md">
+              <img src={`http://localhost:8080/products/${url}`} alt={url} />
+            </figure>)}
+          </div>
         </div>
         <div className="flex-1 p-4">
           <h1 className="text-2xl font-semibold py-2">{product.title}</h1>
@@ -88,41 +96,23 @@ export default function Product() {
         </div>
       </div>
       <div className="similar-category p-4">
-        <h2 className="text-xl font-semibold pb-2 border-b-1 border-amber-700">Similar Category Products:</h2>
+        <h2 className="text-xl font-semibold pb-2 border-b-1 border-gray-400">Similar Category Products:</h2>
         <div className="flex flex-wrap gap-4 py-4">
-          {similarCategories && similarCategories.map(similarCategoryProduct => {
-            if (similarCategoryProduct.id !== product.id) {
-              return (
-                <div key={similarCategoryProduct.id} className="max-w-3xs">
-                  <Link to={`/${similarCategoryProduct.id}`}>
-                    <figure className="bg-white p-2">
-                      <img src={`http://localhost:8080/thumbnail/${similarCategoryProduct.images[0]}`} alt={similarCategoryProduct.title} />
-                      <figcaption className="text-center truncate">{similarCategoryProduct.title}</figcaption>
-                    </figure>
-                  </Link>
-                </div>
-              );
-            }
-          })}
+          {similarCategories && similarCategories.map(category =>
+            (category.id !== product.id) ?
+              <ProductsCardSmall key={category.id} product={category} /> :
+              '')
+          }
         </div>
       </div>
       <div className="similar-products p-4">
-        <h2 className="text-xl font-semibold pb-2 border-b-1 border-amber-700">Similar Brand Products:</h2>
+        <h2 className="text-xl font-semibold pb-2 border-b-1 border-gray-400">Similar Brand Products:</h2>
         <div className="flex flex-wrap gap-4 py-4">
-          {similarProducts && similarProducts.map(similarProduct => {
-            if (similarProduct.id !== product.id) {
-              return (
-                <div key={similarProduct.id} className="max-w-3xs">
-                  <Link to={`/${similarProduct.id}`}>
-                    <figure className="bg-white p-2">
-                      <img src={`http://localhost:8080/thumbnail/${similarProduct.images[0]}`} alt={similarProduct.title} />
-                      <figcaption className="text-center truncate">{similarProduct.title}</figcaption>
-                    </figure>
-                  </Link>
-                </div>
-              );
-            }
-          })}
+          {similarProducts && similarProducts.map(brand =>
+            (brand.id !== product.id) ?
+              <ProductsCardSmall key={brand.id} product={brand} /> :
+              '')
+          }
         </div>
       </div>
     </div>
