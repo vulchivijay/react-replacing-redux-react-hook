@@ -10,7 +10,7 @@ export default function ProductCard({ product }) {
     <div className="w-50 bg-white m-3 p-4 rounded-xl shadow-md">
       <Link to={`${product.id}`}>
         <figure>
-          <img src={product.thumbnail} alt={product.title} />
+          <img src={`http://localhost:8080/thumbnail/${product.thumbnail}`} alt={product.title} />
           <figcaption className="truncate" title={product.title}>{product.title}</figcaption>
         </figure>
         <div className="flex items-center justify-between">

@@ -1,16 +1,41 @@
-import { Link, useLoaderData } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import Button from "../components/Button";
+import { useStore } from "../Hooks/useStore";
 
 export default function Product() {
-  const { product, similarProducts, similarCategories } = useLoaderData();
-  console.log(similarProducts);
+  const products = useStore(true)[0];
+  const dispatch = useStore(true)[1];
+  const { productId } = useParams();
+  if (products.length === 0) {
+    throw new Error('Could not find any products.');
+  }
+  const product = products.find(product => product.id === parseInt(productId));
+  if (!product) {
+    throw new Error('Could not find product for id ' + parseInt(id));
+  }
+  const similarProducts = products.filter(item => item.brand === product.brand);
+  if (!similarProducts) {
+    throw new NotFoundError('Could not find similar products ' + product.brand);
+  }
+  const similarCategories = products.filter(item => item.category === product.category);
+  if (!similarCategories) {
+    throw new NotFoundError('Could not find similar products ' + product.category);
+  }
+
+  const handleAddToCart = () => {
+    dispatch('AddToCart', product.id);
+  }
+
+  const handleBuyNow = () => {
+    dispatch('AddToCart', product.id);
+  }
 
   return (
     <div className="max-w-6xl m-auto sm:px-4">
       <div className="flex items-start">
         <div className="flex-1 p-4">
           <figure className="bg-white">
-            <img src={product.images[0]} alt={product.title} />
+            <img src={`http://localhost:8080/products/${product.images[0]}`} alt={product.title} />
             <figcaption></figcaption>
           </figure>
         </div>
@@ -30,24 +55,26 @@ export default function Product() {
                   bgColor="bg-orange-400"
                   txtColor="text-white"
                   borRadius="rounded-sm"
-                  shadow="shadow-md">Add to Cart</Button>
+                  shadow="shadow-md"
+                  onClick={handleAddToCart}>Add to Cart</Button>
                 <Button
                   bgColor="bg-orange-600"
                   txtColor="text-white"
                   borRadius="rounded-sm"
-                  shadow="shadow-md">Buy now</Button>
+                  shadow="shadow-md"
+                  onClick={handleBuyNow}>Buy now</Button>
               </div>
               <p><b>Branch: </b>{product.brand}</p>
               <p><b>Category: </b>{product.category}</p>
               <p><b>Tags: </b>{product.tags.map(tag => (tag + ", "))}</p>
             </div>
             <div className="flex-1">
-              <img src={product.meta.qrCode} alt={product.meta.barcode} />
+              <img src={`http://localhost:8080/qrCode/${product.meta.qrCode}`} alt={product.meta.barcode} />
             </div>
           </div>
           <h2 className="text-2xl font-semibold py-2 border-b-2 border-amber-500">Reviews:</h2>
-          {product.reviews.map(review => (
-            <div key={review.reviewerName} className="flex flex-col py-2 border-b-1 border-amber-300">
+          {product.reviews.map((review, index) => (
+            <div key={index} className="flex flex-col py-2 border-b-1 border-amber-300">
               <div className="flex items-center justify-between">
                 <b className="text-xl font-semibold">{review.reviewerName}</b>
                 <span className="text-md font-semibold">Reating: {review.rating}</span>
@@ -66,10 +93,10 @@ export default function Product() {
           {similarCategories && similarCategories.map(similarCategoryProduct => {
             if (similarCategoryProduct.id !== product.id) {
               return (
-                <div className="max-w-3xs">
+                <div key={similarCategoryProduct.id} className="max-w-3xs">
                   <Link to={`/${similarCategoryProduct.id}`}>
                     <figure className="bg-white p-2">
-                      <img src={similarCategoryProduct.images[0]} alt={similarCategoryProduct.title} />
+                      <img src={`http://localhost:8080/thumbnail/${similarCategoryProduct.images[0]}`} alt={similarCategoryProduct.title} />
                       <figcaption className="text-center truncate">{similarCategoryProduct.title}</figcaption>
                     </figure>
                   </Link>
@@ -85,10 +112,10 @@ export default function Product() {
           {similarProducts && similarProducts.map(similarProduct => {
             if (similarProduct.id !== product.id) {
               return (
-                <div className="max-w-3xs">
+                <div key={similarProduct.id} className="max-w-3xs">
                   <Link to={`/${similarProduct.id}`}>
                     <figure className="bg-white p-2">
-                      <img src={similarProduct.images[0]} alt={similarProduct.title} />
+                      <img src={`http://localhost:8080/thumbnail/${similarProduct.images[0]}`} alt={similarProduct.title} />
                       <figcaption className="text-center truncate">{similarProduct.title}</figcaption>
                     </figure>
                   </Link>

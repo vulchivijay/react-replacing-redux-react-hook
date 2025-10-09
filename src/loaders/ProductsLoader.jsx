@@ -1,3 +1,5 @@
+import configureStore from "../Hooks/productsStore";
+
 export const loader = async () => {
   const response = await fetch("http://localhost:8080/");
   if (!response.ok) {
@@ -5,7 +7,6 @@ export const loader = async () => {
   }
   else {
     const products = await response.json();
-    // console.log(products);
-    return products;
+    return configureStore(products)
   }
-}
+};
