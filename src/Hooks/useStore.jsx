@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 /**
  * Custom hook to maintain the state management
  */
@@ -16,23 +17,24 @@ export const useStore = function (shouldListen = true) {
   const setCart = useState(cartState);
 
   const dispatch = (actionIdentifier, payload) => {
-    console.log("useStore : ", actionIdentifier, payload);
     const newCartState = actions[actionIdentifier](globalState, cartState, payload);
     cartState = newCartState;
-    console.log(cartState);
     // for (const listner of listeners) {
+    //   listner(globalState);
     //   listner(cartState);
     // }
   };
 
   useEffect(() => {
     if (shouldListen) {
-      listeners.push(setState);
+      // listeners.push(setState);
+      // listeners.push(setCart);
     }
     return () => {
-      listeners = listeners.filter(li => li !== setState)
+      // listeners = listeners.filter(li => li !== setState);
+      // listeners = listeners.filter(li => li !== setCart);
     }
-  }, [setState]); // won't change frequently only once as it is const variable.
+  }, [setState, setCart]); // won't change frequently only once as it is const variable.
 
   return [
     globalState,

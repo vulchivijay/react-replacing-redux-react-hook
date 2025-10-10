@@ -40,12 +40,12 @@ export default function Product() {
     <div className="max-w-6xl m-auto sm:px-4">
       <div className="flex items-start">
         <div className="flex-1 p-4">
-          <figure className="bg-white">
+          <figure className="bg-white rounded-md shadow-md">
             <img src={`http://localhost:8080/products/${product.images[0]}`} alt={product.title} />
             <figcaption></figcaption>
           </figure>
           <div className="flex flex-wrap mt-4 gap-4">
-            {product.images.map((url, index) => <figure key={index} className="w-22 bg-white p-1 rounded-md shadow-md">
+            {product.images.map((url, index) => <figure key={index} className="w-22 bg-white p-1 rounded-sm shadow-sm">
               <img src={`http://localhost:8080/products/${url}`} alt={url} />
             </figure>)}
           </div>
@@ -83,9 +83,9 @@ export default function Product() {
               <img src={`http://localhost:8080/qrCode/${product.meta.qrCode}`} alt={product.meta.barcode} />
             </div>
           </div>
-          <h2 className="text-2xl font-semibold py-2 border-b-2 border-amber-500">Reviews:</h2>
+          <h2 className="text-2xl font-semibold py-2 border-b-2 border-gray-500">Reviews:</h2>
           {product.reviews.map((review, index) => (
-            <div key={index} className="flex flex-col py-2 border-b-1 border-amber-300">
+            <div key={index} className="flex flex-col py-2 border-b-1 border-gray-300">
               <div className="flex items-center justify-between">
                 <b className="text-xl font-semibold">{review.reviewerName}</b>
                 <span className="text-md font-semibold">Reating: {review.rating}</span>
