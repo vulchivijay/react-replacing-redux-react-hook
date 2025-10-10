@@ -1,10 +1,9 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 /**
  * Custom hook to maintain the state management
  */
 let globalState = []; // products
-let listeners = []; // Do not know why using.
+let listeners = []; // functions to update local component state
 let actions = {}; // User actions like add, remove
 let cartState = { // Cart status
   products: [],
@@ -13,39 +12,26 @@ let cartState = { // Cart status
 };
 
 export const useStore = function (shouldListen = true) {
-  const setState = useState(globalState);
-  const setCart = useState(cartState);
-
+  const [cart, setCart] = useState(cartState); // Correct useState destructuring
   const dispatch = (actionIdentifier, payload) => {
-    const newCartState = actions[actionIdentifier](globalState, cartState, payload);
-    cartState = newCartState;
-    // for (const listner of listeners) {
-    //   listner(globalState);
-    //   listner(cartState);
-    // }
+    cartState = actions[actionIdentifier](globalState, cartState, payload);
+    for (const listen of listeners) {
+      listen(cartState); // Call listener with updated cartState
+    }
   };
-
   useEffect(() => {
     if (shouldListen) {
-      // listeners.push(setState);
-      // listeners.push(setCart);
+      listeners.push(setCart);
     }
     return () => {
-      // listeners = listeners.filter(li => li !== setState);
-      // listeners = listeners.filter(li => li !== setCart);
-    }
-  }, [setState, setCart]); // won't change frequently only once as it is const variable.
-
-  return [
-    globalState,
-    dispatch,
-    cartState,
-  ];
+      listeners = listeners.filter(li => li !== setCart);
+    };
+  }, [setCart]);
+  return [globalState, dispatch, cart];
 };
-
-export const initStore = (useractions, initialState) => {
+export const initStore = (userActions, initialState) => {
   if (initialState) {
     globalState = [...initialState];
   }
-  actions = { ...actions, ...useractions }
-}
+  actions = { ...actions, ...userActions };
+};

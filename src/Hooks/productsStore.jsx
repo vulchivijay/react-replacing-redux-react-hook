@@ -4,41 +4,57 @@ const configureStore = (initialState) => {
   const actions = {
     TOGGLE_FAV: (curState, productId) => {
       console.log(curState, productId);
-      // const prodIndex = curState.products.findIndex(p => p.id === productId);
-      // const newFavStatus = !curState.products[prodIndex].isFavorite;
-      // const updateProducts = [...curState.products];
-      // updateProducts[prodIndex] = {
-      //   ...curState.products[prodIndex],
-      //   isFavorite: newFavStatus
-      // };
-      // return { products: updateProducts }
+      const prodIndex = curState.findIndex(p => p.id === productId);
+      const newFavStatus = !curState[prodIndex].isFavorite;
+      const updatedProducts = [...curState];
+      updatedProducts[prodIndex] = {
+        ...curState[prodIndex],
+        isFavorite: newFavStatus,
+      };
+      return updatedProducts;
     },
+
     AddToCart: (curState, cartState, productId) => {
-      // console.log(curState, cartState, productId);
-      const cartProductIndex = curState.findIndex(cartProduct => cartProduct.id === productId);
+      const cartProductIndex = curState.findIndex(p => p.id === productId);
       const cartProduct = curState[cartProductIndex];
-      if (cartState.products.length !== 0) {
-        const cartProducts = [...cartState.products, cartProduct].filter(
-          (product, index, self) => index === self.findIndex(item => item.id === product.id)
+      const existingProduct = cartState.products.find(p => p.id === productId);
+      let updatedProducts;
+      if (existingProduct) {
+        updatedProducts = cartState.products.map(p =>
+          p.id === productId
+            ? { ...p, quantity: (p.quantity || 1) + 1 }
+            : p
         );
-        cartState = {
-          products: cartProducts,
-          quantity: cartState.quantity + 1,
-          total: (cartState.quantity + 1) * cartProduct?.price,
-        }
+      } else {
+        updatedProducts = [...cartState.products, { ...cartProduct, quantity: 1 }];
       }
-      else {
-        cartState = {
-          products: [...cartState.products, cartProduct],
-          quantity: cartState.quantity + 1,
-          total: (cartState.quantity + 1) * cartProduct?.price,
-        }
-      }
-      return cartState;
+      const totalQuantity = updatedProducts.reduce((sum, p) => sum + (p.quantity || 1), 0);
+      const totalPrice = updatedProducts.reduce((sum, p) => sum + ((p.quantity || 1) * p.price), 0);
+      return {
+        products: updatedProducts,
+        quantity: totalQuantity,
+        total: totalPrice,
+      };
     },
-    DeleteFromCart: () => {
-      //
-    }
+    QuantityUpdate: (cartState, productId) => {
+      const updatedItems = [...cartState.products];
+      const updatedItemIndex = updatedItems.findIndex(item => item.id === productId);
+      if (updatedItemIndex === -1) return cartState;
+      const updatedItem = { ...updatedItems[updatedItemIndex] };
+      updatedItem.quantity = (updatedItem.quantity || 1) - 1;
+      if (updatedItem.quantity <= 0) {
+        updatedItems.splice(updatedItemIndex, 1);
+      } else {
+        updatedItems[updatedItemIndex] = updatedItem;
+      }
+      const totalQuantity = updatedItems.reduce((sum, p) => sum + (p.quantity || 1), 0);
+      const totalPrice = updatedItems.reduce((sum, p) => sum + ((p.quantity || 1) * p.price), 0);
+      return {
+        products: updatedItems,
+        quantity: totalQuantity,
+        total: totalPrice,
+      };
+    },
   };
   initStore(actions, initialState);
 };

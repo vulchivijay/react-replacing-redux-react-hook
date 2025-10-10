@@ -1,16 +1,15 @@
 import { useLoaderData } from "react-router-dom";
 import ProductsCard from "../components/ProductsCard";
-// import { useStore } from "../Hooks/useStore";
+import { useStore } from "../Hooks/useStore";
 
 export default function Products() {
-  // const store_products = useStore(true)[0];
-  // console.log(store_products);
-  const products = useLoaderData();
-
+  let products = useStore(false)[0];
+  if (products.length === 0) {
+    products = useLoaderData();
+  }
   if (products instanceof Error) {
     return <div>Error</div>;
   }
-
   return (
     <div className="max-w-6xl m-auto sm:px-4">
       <h1 className="sr-only">Products: {products.length}</h1>
@@ -20,5 +19,5 @@ export default function Products() {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};

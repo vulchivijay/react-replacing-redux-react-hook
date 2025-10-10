@@ -3,7 +3,7 @@ import Header from "../components/Header";
 
 export default function LoginLayout() {
   return (
-    <div className="bg-red-900">
+    <div className="bg-gray-100">
       <Header />
       <Outlet />
     </div>

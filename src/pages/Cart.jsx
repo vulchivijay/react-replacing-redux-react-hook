@@ -7,11 +7,11 @@ export default function Cart() {
     <div className="max-w-6xl m-auto sm:px-4">
       <div className="w-full">
         {products && products.map(product => (
-          <div key={product.id} className="flex w-full bg-white my-8 p-4 rounded-sm shadow-sm">
-            <figure>
+          <div key={product.id} className="flex w-full bg-white my-4 p-2 rounded-sm shadow-sm">
+            <figure className="w-30">
               <img src={`http://localhost:8080/thumbnail/${product.thumbnail}`} alt={product.title} />
             </figure>
-            <div>
+            <div className="pl-4">
               <h1 className="text-xl font-semibold">{product.title}</h1>
               <p className="text-sm py-4">{product.description}</p>
               <p className="flex justify-end font-semibold">Price: ${product.price}</p>
