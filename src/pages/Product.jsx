@@ -1,7 +1,9 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import Button from "../components/Button";
-import ProductsCardSmall from "../components/ProductsCardSmall";
 import { useStore } from "../Hooks/useStore";
+import SimilarBrands from "../components/SimilarBrands";
+import SimilarCategories from "../components/SimilarCategories";
+import CustomerReviews from "../components/CustomerReviews";
 
 export default function Product() {
   const { product, similarProducts, similarCategories } = useLoaderData();
@@ -83,41 +85,11 @@ export default function Product() {
               <img src={`http://localhost:8080/qrCode/${product.meta.qrCode}`} alt={product.meta.barcode} />
             </div>
           </div>
-          <h2 className="text-2xl font-semibold py-2 border-b-2 border-gray-500">Reviews:</h2>
-          {product.reviews.map((review, index) => (
-            <div key={index} className="flex flex-col py-2 border-b-1 border-gray-300">
-              <div className="flex items-center justify-between">
-                <b className="text-xl font-semibold">{review.reviewerName}</b>
-                <span className="text-md font-semibold">Reating: {review.rating}</span>
-              </div>
-              <div className="flex items-start justify-between">
-                <span>{review.comment}</span>
-                <span className="text-xs">{review.date}</span>
-              </div>
-            </div>
-          ))}
+          <CustomerReviews reviews={product.reviews} />
         </div>
       </div>
-      <div className="similar-category p-4">
-        <h2 className="text-xl font-semibold pb-2 border-b-1 border-gray-400">Similar Category Products:</h2>
-        <div className="flex flex-wrap gap-4 py-4">
-          {similarCategories && similarCategories.map(category =>
-            (category.id !== product.id) ?
-              <ProductsCardSmall key={category.id} product={category} /> :
-              '')
-          }
-        </div>
-      </div>
-      <div className="similar-products p-4">
-        <h2 className="text-xl font-semibold pb-2 border-b-1 border-gray-400">Similar Brand Products:</h2>
-        <div className="flex flex-wrap gap-4 py-4">
-          {similarProducts && similarProducts.map(brand =>
-            (brand.id !== product.id) ?
-              <ProductsCardSmall key={brand.id} product={brand} /> :
-              '')
-          }
-        </div>
-      </div>
+      <SimilarCategories products={similarCategories} productId={product.id} />
+      <SimilarBrands products={similarProducts} productId={product.id} />
     </div>
   )
 }
