@@ -41,7 +41,8 @@ const AppRouter = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <Cart />
+        element: <Cart />,
+        loader: loadProducts,
       }
     ],
   },

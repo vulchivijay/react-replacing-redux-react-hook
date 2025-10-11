@@ -1,9 +1,20 @@
+import { useLoaderData } from "react-router-dom";
+import { useStore } from "../Hooks/useStore";
 import Button from "../components/Button";
-import { useStore } from "../Hooks/useStore"
+import ProductsCard from "../components/ProductsCard";
 
 export default function Cart() {
+  let { products: defaultProducts } = useStore(true)[0];
+  const dispatch = useStore(true)[1];
   const { products, total } = useStore(true)[2];
-  const dispatch = useStore(true)[1]
+
+  if (defaultProducts === undefined) {
+    defaultProducts = useLoaderData();
+  }
+
+  if (defaultProducts instanceof Error) {
+    return <div>Error</div>;
+  }
 
   const handleCartUpdate = (id, type) => {
     dispatch('QuantityUpdate', {id, type});
@@ -12,6 +23,7 @@ export default function Cart() {
   return (
     <div className="max-w-6xl m-auto sm:px-4">
       <div className="w-full">
+        {total === 0 ? <h1 className="text-xl text-center font-semibold py-4">Empty Cart</h1> : ''}
         {products && products.map(product => (
           <div key={product.id} className="flex w-full bg-white my-4 p-2 rounded-sm shadow-sm">
             <figure className="w-30">
@@ -42,8 +54,19 @@ export default function Cart() {
           </div>
         ))}
       </div>
-      <div className="flex flex-row justify-end my-4 py-8">
-        <b>Total: ${(total ?? 0).toFixed(2)}</b>
+      <div className="flex flex-row items-center justify-end my-4 py-8 border-t-1 border-b-1 border-gray-800">
+        <Button
+          bgColor="bg-green-400"
+          txtColor="text-white"
+          borRadius="rounded-sm"
+          shadow="shadow-md">Check out</Button>
+        <b className="ml-4">Total: ${(total ?? 0).toFixed(2)}</b>
+      </div>
+      <h1 className="text-xl font-semibold pb-4">Continue shopping</h1>
+      <div className="flex flex-wrap m-auto">
+        {defaultProducts && defaultProducts.map(defaultProduct => (
+          <ProductsCard key={defaultProduct.id} product={defaultProduct} />
+        ))}
       </div>
     </div>
   )
