@@ -2,9 +2,9 @@ import { initStore } from "./useStore";
 
 const configureStore = (initialState) => {
   const actions = {
-    TOGGLE_FAV: (curState, productId) => {
-      console.log(curState, productId);
-      const prodIndex = curState.findIndex(p => p.id === productId);
+    TOGGLE_FAV: (curState, payload) => {
+      console.log(curState, payload);
+      const prodIndex = curState.findIndex(p => p.id === payload);
       const newFavStatus = !curState[prodIndex].isFavorite;
       const updatedProducts = [...curState];
       updatedProducts[prodIndex] = {
@@ -14,14 +14,14 @@ const configureStore = (initialState) => {
       return updatedProducts;
     },
 
-    AddToCart: (curState, cartState, productId) => {
-      const cartProductIndex = curState.findIndex(p => p.id === productId);
+    AddToCart: (curState, cartState, payload) => {
+      const cartProductIndex = curState.findIndex(p => p.id === payload);
       const cartProduct = curState[cartProductIndex];
-      const existingProduct = cartState.products.find(p => p.id === productId);
+      const existingProduct = cartState.products.find(p => p.id === payload);
       let updatedProducts;
       if (existingProduct) {
         updatedProducts = cartState.products.map(p =>
-          p.id === productId
+          p.id === payload
             ? { ...p, quantity: (p.quantity || 1) + 1 }
             : p
         );
@@ -36,12 +36,17 @@ const configureStore = (initialState) => {
         total: totalPrice,
       };
     },
-    QuantityUpdate: (cartState, productId) => {
+    QuantityUpdate: ([], cartState, payload) => {
       const updatedItems = [...cartState.products];
-      const updatedItemIndex = updatedItems.findIndex(item => item.id === productId);
+      const updatedItemIndex = updatedItems.findIndex(item => item.id === payload.id);
       if (updatedItemIndex === -1) return cartState;
       const updatedItem = { ...updatedItems[updatedItemIndex] };
-      updatedItem.quantity = (updatedItem.quantity || 1) - 1;
+      if (payload.type === 'increment') {
+        updatedItem.quantity = (updatedItem.quantity || 1) + 1;
+      }
+      else {
+        updatedItem.quantity = (updatedItem.quantity || 1) - 1;
+      }
       if (updatedItem.quantity <= 0) {
         updatedItems.splice(updatedItemIndex, 1);
       } else {
