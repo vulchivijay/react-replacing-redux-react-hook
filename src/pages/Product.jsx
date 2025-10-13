@@ -1,4 +1,4 @@
-import { useLoaderData, useParams } from "react-router-dom";
+import { redirect, useLoaderData, useParams } from "react-router-dom";
 import Button from "../components/Button";
 import { useStore } from "../Hooks/useStore";
 import SimilarBrands from "../components/SimilarBrands";
@@ -37,6 +37,7 @@ export default function Product() {
 
   const handleBuyNow = () => {
     dispatch('AddToCart', product.id);
+    redirect('/cart');
   }
 
   return (

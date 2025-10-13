@@ -1,6 +1,7 @@
 import ProductsCardSmall from "./ProductsCardSmall";
 
-export default function SimilarBrands ({products, productId}) {
+export default function SimilarBrands({ products, productId }) {
+  // console.log(products, productId);
   return (
     <div className="similar-brands p-4">
       <h2 className="text-xl font-semibold pb-2 border-b-1 border-gray-400">Similar Brand Products:</h2>

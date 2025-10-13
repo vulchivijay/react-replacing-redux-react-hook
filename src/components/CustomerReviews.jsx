@@ -1,5 +1,5 @@
-export default function CustomerReviews({reviews}) {
-  console.log(reviews);
+export default function CustomerReviews({ reviews }) {
+  // console.log(reviews);
   return (
     <>
       <h2 className="text-2xl font-semibold py-2 border-b-2 border-gray-500">Reviews:</h2>

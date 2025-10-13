@@ -37,7 +37,7 @@ export const useStore = function (shouldListen = true) {
       }
     }
     return () => {
-      listeners = setCart ? listeners.filter(li => li !== setCart) : listeners.filter(li => li !== setSearch) ;
+      listeners = setCart ? listeners.filter(li => li !== setCart) : listeners.filter(li => li !== setSearch);
     };
   }, [shouldListen, setCart, setSearch]);
   return [globalState, dispatch, cart, sdispatch, search];
