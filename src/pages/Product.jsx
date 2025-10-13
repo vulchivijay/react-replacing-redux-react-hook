@@ -10,7 +10,8 @@ export default function Product() {
 
   // const store_products = useStore(true)[0];
   const dispatch = useStore(true)[1];
-  // const { productId } = useParams();
+  const { productId } = useParams();
+  console.log(productId);
   // if (store_products.length === 0) {
   //   throw new Error('Could not find any products.');
   // }

@@ -13,7 +13,6 @@ const configureStore = (initialState) => {
       };
       return updatedProducts;
     },
-
     AddToCart: (curState, cartState, payload) => {
       const cartProductIndex = curState.findIndex(p => p.id === payload);
       const cartProduct = curState[cartProductIndex];
@@ -36,7 +35,7 @@ const configureStore = (initialState) => {
         total: totalPrice,
       };
     },
-    QuantityUpdate: ([], cartState, payload) => {
+    QuantityUpdate: (curState, cartState, payload) => {
       const updatedItems = [...cartState.products];
       const updatedItemIndex = updatedItems.findIndex(item => item.id === payload.id);
       if (updatedItemIndex === -1) return cartState;
@@ -60,6 +59,12 @@ const configureStore = (initialState) => {
         total: totalPrice,
       };
     },
+    SearchQuery: (curState, payload) => {
+      const filteredProducts = curState.filter(product =>
+        product.title.toLowerCase().includes(payload.toLowerCase())
+      );
+      return filteredProducts;
+    }
   };
   initStore(actions, initialState);
 };
